@@ -1,0 +1,1615 @@
+ID,Attrition,Job Role,Job Level,Years At Company,Years With Curr Manager,Years Since Last Promotion,Training Times Last Year,Business Travel,Over Time
+1,No, Research Director ,5,20,15,15,5,Unknown,No
+2,No, Manager ,5,33,9,11,5,Unknown,Unknown
+3,No, Manager ,5,22,15,11,3,Travel Rarely,No
+4,No, Research Director ,4,20,6,5,2,Travel Rarely,Unknown
+5,No, Sales Executive ,4,19,8,2,5,Unknown,No
+6,No, Manager ,4,22,7,4,3,Unknown,No
+7,No, Sales Executive ,3,21,9,7,3,Unknown,Unknown
+8,No, Sales Executive ,2,20,6,11,3,Travel Rarely,No
+9,No, Manager ,4,18,8,11,2,Unknown,No
+10,No, Research Director ,5,18,11,0,2,Travel Frequently,No
+11,No, Research Director ,5,21,10,5,3,Non Travel,No
+12,No, Manufacturing Director ,4,19,9,15,0,Travel Rarely,Yes
+13,No, Research Director ,3,18,11,1,3,Unknown,No
+14,Yes, Research Director ,5,22,8,15,0,Travel Rarely,No
+15,No, Research Director ,5,24,15,2,3,Unknown,No
+16,No, Manager ,5,20,12,1,2,Travel Rarely,No
+17,Yes, Research Director ,5,31,8,13,2,Travel Rarely,Yes
+18,No, Manager ,4,26,9,15,2,Travel Rarely,Unknown
+19,No, Research Scientist ,2,16,10,1,2,Unknown,Unknown
+20,No, Manufacturing Director ,3,18,12,14,2,Travel Rarely,Unknown
+21,No, Healthcare Representative ,3,23,4,14,3,Non Travel,Unknown
+22,No, Research Director ,3,15,12,8,1,Unknown,Yes
+23,No, Healthcare Representative ,3,17,8,12,2,Unknown,Unknown
+24,No, Manager ,4,26,0,3,3,Unknown,Unknown
+25,No, Sales Executive ,2,18,11,4,1,Travel Rarely,Unknown
+26,No, Manufacturing Director ,3,17,15,5,2,Unknown,Yes
+27,Yes, Manager ,5,32,9,6,3,Unknown,No
+28,No, Manufacturing Director ,2,16,12,5,2,Unknown,Yes
+29,No, Laboratory Technician ,2,15,7,5,3,Travel Rarely,Unknown
+30,No, Sales Executive ,2,15,7,0,3,Non Travel,Yes
+31,No, Sales Executive ,3,22,5,13,3,Unknown,Unknown
+32,No, Healthcare Representative ,3,17,11,12,3,Unknown,Unknown
+33,No, Manager ,5,14,8,4,3,Travel Rarely,Unknown
+34,No, Sales Executive ,2,15,8,2,2,Unknown,No
+35,No, Research Scientist ,2,16,10,2,3,Travel Rarely,Unknown
+36,No, Sales Executive ,3,24,7,15,2,Travel Rarely,No
+37,No, Manager ,4,17,9,1,3,Unknown,Unknown
+38,No, Laboratory Technician ,1,15,11,10,4,Unknown,Unknown
+39,No, Sales Executive ,3,18,11,13,5,Travel Frequently,No
+40,No, Sales Executive ,3,18,12,1,2,Travel Frequently,Yes
+41,No, Manufacturing Director ,2,14,8,6,3,Travel Rarely,No
+42,No, Laboratory Technician ,1,18,17,2,3,Travel Rarely,Yes
+43,No, Manager ,4,17,2,15,3,Unknown,No
+44,Yes, Laboratory Technician ,1,17,14,15,1,Travel Rarely,Unknown
+45,No, Research Scientist ,2,16,7,1,2,Unknown,Yes
+46,No, Sales Executive ,2,15,8,5,3,Travel Rarely,No
+47,No, Healthcare Representative ,3,13,8,12,1,Unknown,Unknown
+48,No, Manager ,4,25,12,4,3,Unknown,Yes
+49,No, Research Scientist ,1,17,7,5,3,Unknown,No
+50,No, Sales Executive ,2,13,9,11,2,Travel Rarely,Yes
+51,No, Research Director ,3,15,11,5,3,Unknown,Unknown
+52,No, Manager ,4,13,1,5,2,Unknown,No
+53,Yes, Sales Executive ,3,13,0,6,3,Travel Rarely,Unknown
+54,No, Manager ,5,16,14,6,2,Unknown,No
+55,No, Healthcare Representative ,2,13,9,1,2,Non Travel,No
+56,No, Sales Executive ,2,15,11,11,4,Non Travel,No
+57,No, Research Scientist ,2,13,9,1,3,Unknown,Unknown
+58,No, Manufacturing Director ,2,15,11,5,2,Unknown,No
+59,No, Sales Executive ,2,15,9,5,1,Travel Rarely,Unknown
+60,No, Sales Executive ,3,12,11,2,2,Unknown,No
+61,No, Laboratory Technician ,2,13,7,3,3,Unknown,No
+62,No, Research Scientist ,2,13,7,10,2,Unknown,Yes
+63,No, Research Scientist ,2,17,8,11,3,Unknown,Unknown
+64,No, Healthcare Representative ,2,13,7,4,2,Travel Frequently,No
+65,No, Manufacturing Director ,4,12,5,1,2,Travel Rarely,Yes
+66,No, Healthcare Representative ,3,15,8,4,3,Travel Rarely,Unknown
+67,No, Sales Executive ,4,12,11,11,2,Travel Rarely,Unknown
+68,No, Research Scientist ,2,20,17,13,3,Travel Rarely,Unknown
+69,No, Healthcare Representative ,2,12,8,11,0,Unknown,No
+70,No, Healthcare Representative ,2,14,11,4,2,Travel Rarely,Unknown
+71,No, Healthcare Representative ,2,14,9,2,5,Non Travel,Unknown
+72,No, Research Director ,3,14,11,1,3,Unknown,No
+73,No, Healthcare Representative ,4,15,12,2,3,Unknown,Unknown
+74,No, Research Scientist ,2,13,9,2,4,Travel Frequently,No
+75,No, Laboratory Technician ,1,14,13,2,6,Unknown,No
+76,No, Manufacturing Director ,3,22,10,14,4,Travel Rarely,Yes
+77,No, Research Scientist ,2,20,7,0,3,Unknown,Unknown
+78,No, Research Director ,3,16,8,6,2,Travel Rarely,Yes
+79,No, Healthcare Representative ,2,11,8,10,3,Unknown,No
+80,No, Sales Executive ,4,37,8,1,1,Travel Rarely,Unknown
+81,No, Manager ,3,11,8,5,6,Travel Rarely,Unknown
+82,Yes, Healthcare Representative ,3,40,6,15,3,Travel Rarely,Unknown
+83,No, Sales Executive ,3,16,13,5,6,Unknown,Unknown
+84,No, Sales Executive ,3,11,1,4,5,Travel Frequently,Unknown
+85,No, Manager ,5,36,13,4,2,Travel Rarely,Unknown
+86,No, Manager ,4,22,4,0,2,Unknown,Unknown
+87,No, Healthcare Representative ,3,18,7,3,5,Travel Rarely,No
+88,No, Research Director ,3,11,9,2,3,Unknown,Unknown
+89,No, Research Director ,4,25,9,3,3,Unknown,No
+90,No, Manufacturing Director ,2,13,12,3,5,Unknown,No
+91,No, Manager ,4,27,7,15,2,Travel Rarely,No
+92,No, Manufacturing Director ,3,13,8,4,2,Unknown,No
+93,No, Manufacturing Director ,2,19,7,2,3,Unknown,Yes
+94,No, Healthcare Representative ,3,16,1,10,3,Unknown,Yes
+95,No, Healthcare Representative ,3,11,1,11,6,Travel Rarely,Unknown
+96,No, Sales Executive ,2,15,12,4,2,Unknown,Unknown
+97,No, Research Scientist ,1,14,10,4,5,Unknown,Unknown
+98,No, Research Scientist ,1,11,7,0,2,Travel Frequently,No
+99,Yes, Manager ,5,24,11,1,2,Unknown,Yes
+100,No, Manager ,5,29,10,11,5,Travel Frequently,Yes
+101,No, Sales Representative ,1,11,7,5,4,Travel Rarely,Yes
+102,No, Research Director ,4,14,11,6,3,Travel Rarely,No
+103,No, Laboratory Technician ,2,15,13,4,3,Unknown,No
+104,No, Human Resources ,1,11,8,3,3,Unknown,No
+105,No, Research Director ,5,22,9,12,3,Unknown,No
+106,No, Research Scientist ,2,15,11,6,3,Unknown,Yes
+107,No, Sales Executive ,3,14,7,5,3,Travel Rarely,No
+108,No, Manufacturing Director ,3,10,8,8,1,Travel Rarely,No
+109,No, Healthcare Representative ,3,10,5,9,5,Unknown,Yes
+110,No, Human Resources ,2,11,7,4,2,Unknown,Yes
+111,No, Laboratory Technician ,2,17,15,0,2,Unknown,No
+112,No, Sales Executive ,3,10,4,7,2,Travel Rarely,No
+113,No, Laboratory Technician ,2,12,10,6,4,Unknown,No
+114,No, Manufacturing Director ,2,10,9,1,2,Travel Frequently,Unknown
+115,No, Research Director ,3,10,7,4,5,Travel Rarely,No
+116,No, Manufacturing Director ,2,11,9,5,3,Unknown,Unknown
+117,No, Sales Executive ,3,11,9,6,3,Travel Rarely,Unknown
+118,No, Laboratory Technician ,3,24,11,9,2,Travel Frequently,Unknown
+119,No, Manager ,4,21,10,11,3,Unknown,Unknown
+120,No, Manufacturing Director ,3,10,9,8,2,Unknown,No
+121,No, Manager ,5,21,3,13,2,Unknown,Unknown
+122,No, Research Scientist ,2,10,8,9,3,Travel Rarely,No
+123,No, Sales Executive ,2,10,2,1,2,Travel Rarely,Unknown
+124,No, Manufacturing Director ,3,11,10,4,2,Unknown,Unknown
+125,No, Sales Executive ,3,13,12,1,2,Unknown,No
+126,No, Sales Executive ,3,10,0,9,2,Travel Rarely,Unknown
+127,No, Manager ,4,10,7,7,2,Travel Rarely,No
+128,No, Sales Executive ,2,11,9,6,2,Unknown,Unknown
+129,No, Manufacturing Director ,3,10,8,5,5,Travel Rarely,Unknown
+130,No, Research Scientist ,2,10,9,6,3,Travel Rarely,Yes
+131,No, Research Director ,5,31,9,0,5,Unknown,Yes
+132,No, Research Scientist ,1,10,8,8,4,Travel Rarely,No
+133,Yes, Research Scientist ,1,10,8,7,2,Travel Rarely,Unknown
+134,No, Research Director ,3,13,7,3,3,Unknown,No
+135,No, Research Director ,4,12,8,3,0,Travel Rarely,No
+136,No, Laboratory Technician ,3,26,7,1,3,Travel Rarely,Unknown
+137,No, Sales Executive ,3,10,8,0,2,Unknown,Unknown
+138,No, Healthcare Representative ,3,19,9,1,4,Travel Rarely,Unknown
+139,No, Manager ,4,12,9,4,3,Unknown,No
+140,No, Manufacturing Director ,2,11,9,0,0,Non Travel,Unknown
+141,Yes, Sales Executive ,4,21,14,13,2,Travel Frequently,Unknown
+142,No, Healthcare Representative ,2,13,9,4,3,Travel Frequently,No
+143,No, Research Scientist ,1,11,7,5,2,Travel Rarely,Yes
+144,No, Research Director ,4,10,9,0,2,Travel Rarely,No
+145,No, Healthcare Representative ,2,10,8,1,2,Travel Rarely,No
+146,No, Manager ,5,22,10,3,5,Unknown,No
+147,No, Healthcare Representative ,4,33,0,15,3,Non Travel,Yes
+148,No, Manager ,5,25,13,14,4,Travel Rarely,No
+149,No, Human Resources ,2,10,8,1,5,Travel Frequently,No
+150,No, Manager ,4,19,2,15,4,Unknown,Yes
+151,No, Manager ,5,19,11,9,5,Travel Rarely,Unknown
+152,No, Manager ,4,33,10,0,2,Unknown,Unknown
+153,Yes, Manufacturing Director ,3,10,9,5,0,Unknown,Unknown
+154,No, Manufacturing Director ,3,10,8,0,2,Unknown,No
+155,No, Human Resources ,3,10,9,0,3,Travel Rarely,Unknown
+156,No, Sales Executive ,2,13,12,3,2,Unknown,No
+157,No, Laboratory Technician ,1,12,8,5,3,Travel Frequently,Unknown
+158,No, Research Scientist ,2,12,8,2,2,Travel Rarely,No
+159,Yes, Sales Executive ,2,15,10,10,2,Travel Rarely,Yes
+160,No, Manager ,4,14,12,1,2,Travel Frequently,No
+161,No, Sales Executive ,3,10,6,8,3,Travel Rarely,Unknown
+162,No, Laboratory Technician ,1,10,5,1,3,Unknown,Unknown
+163,No, Laboratory Technician ,2,10,8,6,3,Travel Rarely,Unknown
+164,Yes, Sales Executive ,2,11,7,6,2,Unknown,Unknown
+165,No, Research Scientist ,1,10,7,8,3,Travel Rarely,No
+166,No, Sales Executive ,2,10,8,8,3,Unknown,Yes
+167,No, Manager ,4,16,14,14,0,Non Travel,No
+168,No, Sales Executive ,2,10,7,1,4,Travel Rarely,Yes
+169,No, Healthcare Representative ,3,10,9,0,1,Travel Rarely,Unknown
+170,No, Manager ,5,10,4,1,0,Unknown,Yes
+171,No, Research Scientist ,2,20,7,3,2,Unknown,Unknown
+172,No, Laboratory Technician ,2,10,4,9,2,Unknown,Unknown
+173,Yes, Laboratory Technician ,1,10,8,9,4,Unknown,No
+174,No, Sales Executive ,4,20,6,9,2,Travel Rarely,Unknown
+175,No, Manager ,4,25,7,3,3,Travel Rarely,No
+176,No, Sales Executive ,3,9,7,1,0,Travel Frequently,No
+177,No, Laboratory Technician ,2,12,7,3,2,Travel Frequently,Unknown
+178,No, Sales Executive ,3,9,8,1,3,Unknown,Unknown
+179,No, Manufacturing Director ,2,9,8,7,3,Travel Rarely,Yes
+180,No, Laboratory Technician ,2,10,0,3,1,Travel Rarely,Unknown
+181,Yes, Sales Executive ,3,9,7,4,3,Unknown,No
+182,No, Sales Executive ,2,11,7,2,4,Travel Rarely,Yes
+183,No, Sales Executive ,2,11,7,5,0,Unknown,No
+184,No, Sales Executive ,3,10,6,0,3,Travel Rarely,Unknown
+185,No, Sales Executive ,3,9,7,3,2,Unknown,Unknown
+186,No, Research Scientist ,1,9,8,1,2,Travel Rarely,No
+187,No, Manager ,5,20,9,9,2,Travel Rarely,No
+188,No, Manager ,4,20,8,11,1,Unknown,No
+189,Yes, Sales Executive ,3,14,8,9,2,Travel Rarely,No
+190,No, Manufacturing Director ,3,11,8,5,2,Non Travel,No
+191,No, Research Director ,3,10,7,0,1,Unknown,Unknown
+192,No, Sales Representative ,1,9,8,5,2,Unknown,No
+193,No, Research Scientist ,2,9,7,4,3,Unknown,No
+194,No, Laboratory Technician ,2,9,8,0,3,Non Travel,Unknown
+195,No, Sales Executive ,2,13,8,4,3,Travel Rarely,Unknown
+196,No, Research Director ,3,10,1,0,2,Unknown,Unknown
+197,No, Research Scientist ,2,10,9,1,2,Travel Rarely,No
+198,No, Manager ,5,21,6,1,3,Unknown,Unknown
+199,No, Manager ,5,29,10,11,5,Unknown,No
+200,No, Sales Executive ,3,9,8,7,3,Unknown,Unknown
+201,No, Manufacturing Director ,3,13,8,0,6,Travel Rarely,No
+202,Yes, Research Scientist ,1,10,7,9,3,Unknown,Yes
+203,No, Laboratory Technician ,1,20,8,3,3,Unknown,Yes
+204,No, Laboratory Technician ,2,10,7,4,2,Unknown,No
+205,No, Manufacturing Director ,2,9,8,7,3,Unknown,Unknown
+206,Yes, Sales Executive ,3,9,7,7,3,Unknown,No
+207,No, Research Director ,3,9,8,0,3,Unknown,Unknown
+208,No, Sales Executive ,2,9,8,0,5,Travel Rarely,Unknown
+209,No, Manufacturing Director ,4,9,0,0,3,Unknown,No
+210,No, Sales Executive ,2,10,3,5,3,Unknown,No
+211,No, Healthcare Representative ,2,16,11,4,2,Unknown,Unknown
+212,No, Sales Executive ,2,9,0,0,2,Non Travel,Unknown
+213,No, Laboratory Technician ,1,11,9,3,6,Travel Rarely,No
+214,No, Manager ,4,9,8,7,2,Unknown,Unknown
+215,No, Manager ,4,10,0,6,2,Non Travel,Unknown
+216,No, Laboratory Technician ,2,9,8,0,2,Non Travel,Yes
+217,No, Manufacturing Director ,3,14,8,7,2,Travel Rarely,Unknown
+218,No, Sales Executive ,4,9,3,2,3,Unknown,Unknown
+219,Yes, Sales Executive ,3,11,10,3,3,Unknown,Unknown
+220,No, Laboratory Technician ,1,10,8,0,5,Unknown,Unknown
+221,No, Manufacturing Director ,2,14,11,3,2,Unknown,Unknown
+222,No, Sales Executive ,3,9,8,0,3,Travel Rarely,Unknown
+223,No, Laboratory Technician ,2,11,10,5,2,Travel Frequently,No
+224,No, Laboratory Technician ,2,9,5,7,6,Non Travel,No
+225,No, Sales Executive ,3,10,6,9,5,Non Travel,Yes
+226,No, Manager ,4,20,10,2,3,Non Travel,Yes
+227,No, Research Scientist ,2,9,8,8,4,Travel Rarely,Unknown
+228,No, Sales Executive ,2,10,6,9,6,Unknown,Unknown
+229,No, Research Director ,5,9,5,1,3,Travel Rarely,Unknown
+230,Yes, Manufacturing Director ,3,10,7,4,2,Travel Frequently,Unknown
+231,No, Research Director ,3,9,8,4,5,Non Travel,No
+232,No, Research Director ,4,9,8,8,2,Unknown,No
+233,No, Research Director ,4,14,9,6,3,Unknown,Unknown
+234,No, Healthcare Representative ,3,11,3,3,3,Travel Rarely,No
+235,No, Research Scientist ,2,10,7,3,2,Unknown,Unknown
+236,No, Healthcare Representative ,3,20,9,13,3,Travel Frequently,Yes
+237,No, Healthcare Representative ,3,10,7,7,4,Unknown,Unknown
+238,Yes, Sales Executive ,2,10,7,6,4,Travel Rarely,No
+239,No, Sales Executive ,2,9,7,7,3,Travel Rarely,Unknown
+240,No, Healthcare Representative ,4,30,13,12,3,Unknown,Unknown
+241,No, Laboratory Technician ,2,10,7,0,3,Travel Rarely,Unknown
+242,No, Research Scientist ,2,11,9,7,2,Travel Rarely,No
+243,No, Manager ,4,10,7,4,6,Travel Rarely,Unknown
+244,No, Sales Executive ,3,10,7,8,3,Travel Rarely,No
+245,No, Laboratory Technician ,2,9,8,5,2,Unknown,Unknown
+246,No, Manager ,5,21,8,12,3,Travel Rarely,No
+247,No, Research Scientist ,2,9,7,1,2,Unknown,No
+248,No, Healthcare Representative ,3,12,7,5,1,Unknown,Unknown
+249,No, Research Scientist ,1,10,6,7,1,Unknown,No
+250,No, Sales Executive ,2,10,8,4,5,Travel Rarely,No
+251,No, Laboratory Technician ,1,11,10,3,3,Travel Frequently,No
+252,No, Manufacturing Director ,3,9,7,4,4,Travel Rarely,Unknown
+253,No, Sales Representative ,2,9,8,5,5,Travel Rarely,No
+254,No, Laboratory Technician ,2,10,2,0,2,Unknown,No
+255,No, Manufacturing Director ,2,9,8,3,2,Travel Rarely,No
+256,No, Sales Executive ,3,14,1,2,3,Travel Rarely,No
+257,No, Research Scientist ,2,10,7,8,6,Unknown,Unknown
+258,No, Sales Executive ,2,10,9,0,2,Unknown,Yes
+259,No, Sales Executive ,4,20,10,11,3,Travel Rarely,No
+260,No, Sales Executive ,2,11,10,5,4,Travel Rarely,No
+261,No, Laboratory Technician ,1,12,7,1,6,Travel Rarely,No
+262,No, Research Director ,3,13,12,5,3,Unknown,No
+263,No, Sales Representative ,1,9,0,0,3,Non Travel,Unknown
+264,No, Research Scientist ,2,10,7,1,3,Travel Frequently,No
+265,No, Research Scientist ,1,8,0,3,3,Travel Frequently,Unknown
+266,No, Laboratory Technician ,1,7,6,3,2,Unknown,Unknown
+267,No, Manufacturing Director ,3,9,8,1,2,Travel Frequently,No
+268,No, Healthcare Representative ,2,7,7,7,3,Travel Rarely,Unknown
+269,No, Sales Executive ,2,9,2,4,2,Unknown,Unknown
+270,No, Laboratory Technician ,2,7,7,1,3,Unknown,No
+271,No, Manufacturing Director ,2,11,8,1,2,Travel Rarely,No
+272,No, Sales Executive ,2,10,0,1,2,Unknown,Unknown
+273,Yes, Laboratory Technician ,2,9,6,0,3,Travel Frequently,Yes
+274,No, Sales Executive ,3,9,8,2,6,Unknown,No
+275,No, Research Scientist ,1,10,9,0,2,Travel Frequently,No
+276,No, Sales Executive ,2,7,7,0,2,Non Travel,Unknown
+277,Yes, Sales Executive ,2,7,7,7,3,Unknown,Unknown
+278,No, Sales Executive ,3,9,7,0,2,Travel Rarely,Yes
+279,No, Human Resources ,1,8,7,5,3,Travel Rarely,Unknown
+280,No, Sales Executive ,2,8,7,0,2,Unknown,No
+281,No, Research Scientist ,2,20,13,2,2,Travel Frequently,No
+282,No, Sales Representative ,2,7,5,4,3,Travel Rarely,Yes
+283,No, Manufacturing Director ,2,10,9,0,1,Non Travel,Unknown
+284,No, Laboratory Technician ,1,8,2,7,3,Travel Frequently,No
+285,No, Research Scientist ,1,8,6,1,5,Travel Rarely,Unknown
+286,No, Healthcare Representative ,4,7,0,1,6,Travel Rarely,Unknown
+287,No, Research Scientist ,1,7,3,0,2,Travel Rarely,No
+288,No, Research Scientist ,1,8,7,1,3,Unknown,Yes
+289,No, Manufacturing Director ,2,7,7,1,3,Unknown,No
+290,No, Manufacturing Director ,2,7,7,1,0,Non Travel,Yes
+291,No, Sales Executive ,2,7,7,0,2,Unknown,Unknown
+292,No, Sales Executive ,3,19,8,12,2,Unknown,Unknown
+293,No, Sales Executive ,3,10,8,0,3,Unknown,No
+294,Yes, Laboratory Technician ,1,9,7,1,3,Travel Rarely,No
+295,No, Manager ,5,33,12,15,2,Unknown,Yes
+296,No, Research Director ,5,21,9,3,5,Unknown,No
+297,No, Sales Executive ,2,8,5,7,0,Non Travel,No
+298,No, Manager ,4,7,7,7,2,Unknown,Yes
+299,No, Healthcare Representative ,4,20,10,4,2,Travel Rarely,Yes
+300,Yes, Manager ,3,10,9,9,2,Non Travel,Unknown
+301,No, Manager ,3,7,2,6,6,Unknown,Unknown
+302,No, Sales Executive ,2,10,9,0,3,Travel Frequently,Unknown
+303,No, Laboratory Technician ,2,10,8,0,4,Travel Rarely,Unknown
+304,Yes, Sales Executive ,2,8,4,7,0,Travel Rarely,Unknown
+305,No, Sales Executive ,2,8,7,7,3,Travel Rarely,Unknown
+306,No, Laboratory Technician ,1,8,7,1,5,Travel Frequently,No
+307,No, Sales Executive ,2,7,7,1,3,Travel Rarely,Unknown
+308,No, Research Scientist ,2,7,7,0,0,Unknown,Unknown
+309,No, Sales Executive ,2,7,1,0,6,Unknown,No
+310,No, Laboratory Technician ,2,9,0,0,3,Travel Frequently,No
+311,Yes, Laboratory Technician ,1,7,7,0,4,Travel Rarely,Unknown
+312,No, Sales Executive ,2,8,7,0,3,Unknown,No
+313,No, Sales Executive ,2,7,7,1,2,Travel Rarely,Yes
+314,No, Research Scientist ,2,7,7,6,2,Unknown,Unknown
+315,No, Sales Executive ,2,8,7,7,3,Travel Rarely,Unknown
+316,No, Laboratory Technician ,1,7,7,1,3,Travel Rarely,Yes
+317,Yes, Sales Executive ,2,8,7,7,5,Unknown,No
+318,No, Sales Executive ,2,7,7,0,2,Travel Rarely,No
+319,No, Laboratory Technician ,1,18,17,12,2,Unknown,No
+320,No, Sales Executive ,4,7,7,7,0,Unknown,No
+321,No, Sales Executive ,3,10,7,0,2,Travel Rarely,Unknown
+322,No, Manufacturing Director ,2,10,8,0,5,Unknown,No
+323,No, Laboratory Technician ,1,11,7,6,2,Non Travel,Unknown
+324,No, Healthcare Representative ,3,8,0,0,2,Travel Rarely,Yes
+325,No, Sales Executive ,2,9,7,6,2,Travel Rarely,No
+326,No, Sales Executive ,2,8,7,3,3,Travel Rarely,No
+327,Yes, Human Resources ,1,7,0,1,2,Travel Frequently,Yes
+328,No, Healthcare Representative ,2,8,7,0,3,Unknown,Yes
+329,No, Sales Executive ,2,10,7,5,3,Unknown,Unknown
+330,No, Sales Executive ,2,7,7,5,4,Travel Rarely,No
+331,No, Laboratory Technician ,2,8,7,4,3,Travel Frequently,Unknown
+332,No, Sales Executive ,2,14,10,8,2,Unknown,Unknown
+333,No, Manufacturing Director ,3,10,8,7,2,Travel Rarely,No
+334,No, Human Resources ,3,9,1,7,1,Unknown,Unknown
+335,No, Sales Executive ,2,7,5,0,2,Travel Rarely,No
+336,No, Research Scientist ,1,10,8,2,5,Unknown,Unknown
+337,No, Healthcare Representative ,3,8,7,7,3,Unknown,Unknown
+338,No, Healthcare Representative ,2,20,10,11,4,Unknown,No
+339,No, Sales Executive ,2,10,8,0,2,Unknown,Unknown
+340,No, Healthcare Representative ,2,9,8,1,4,Travel Rarely,Unknown
+341,No, Manufacturing Director ,3,9,7,0,3,Travel Rarely,Unknown
+342,No, Research Director ,3,7,7,7,6,Travel Rarely,Unknown
+343,No, Sales Executive ,2,7,7,1,2,Unknown,Unknown
+344,No, Manufacturing Director ,3,9,7,1,4,Travel Frequently,No
+345,No, Manager ,5,22,10,2,3,Unknown,No
+346,Yes, Research Scientist ,1,7,7,3,4,Unknown,Yes
+347,No, Research Director ,3,8,5,0,2,Unknown,Unknown
+348,No, Sales Executive ,2,8,7,7,2,Unknown,No
+349,No, Healthcare Representative ,4,10,1,1,1,Travel Rarely,No
+350,No, Sales Representative ,2,8,1,3,3,Travel Rarely,No
+351,No, Sales Executive ,3,10,9,0,1,Non Travel,Unknown
+352,No, Healthcare Representative ,2,8,1,1,3,Unknown,No
+353,No, Manufacturing Director ,2,15,12,4,2,Unknown,Unknown
+354,No, Healthcare Representative ,2,8,7,3,2,Unknown,No
+355,No, Manager ,5,24,9,14,4,Travel Frequently,No
+356,No, Manufacturing Director ,2,9,5,0,2,Travel Rarely,Unknown
+357,No, Research Scientist ,1,10,7,0,3,Travel Rarely,Unknown
+358,Yes, Sales Executive ,2,9,3,7,3,Unknown,Unknown
+359,No, Sales Executive ,2,8,5,7,2,Unknown,Unknown
+360,Yes, Research Scientist ,1,8,7,1,2,Unknown,Unknown
+361,No, Research Scientist ,1,8,1,7,0,Unknown,Yes
+362,Yes, Laboratory Technician ,1,7,0,1,1,Unknown,Yes
+363,No, Sales Representative ,1,7,2,5,2,Travel Rarely,Unknown
+364,No, Sales Executive ,2,7,7,0,2,Travel Frequently,Unknown
+365,No, Healthcare Representative ,2,9,5,8,2,Unknown,Unknown
+366,No, Manufacturing Director ,2,8,3,6,2,Unknown,Unknown
+367,Yes, Sales Executive ,3,16,7,3,6,Travel Rarely,Unknown
+368,No, Laboratory Technician ,2,9,8,0,5,Non Travel,Unknown
+369,No, Sales Executive ,3,8,7,0,3,Travel Rarely,No
+370,No, Sales Executive ,2,7,7,0,3,Non Travel,No
+371,No, Manufacturing Director ,3,8,7,0,3,Unknown,Unknown
+372,No, Manufacturing Director ,3,10,8,0,2,Travel Rarely,Unknown
+373,No, Research Director ,3,8,7,1,4,Travel Rarely,Yes
+374,No, Manufacturing Director ,2,8,3,1,2,Unknown,Unknown
+375,No, Healthcare Representative ,2,8,7,6,3,Travel Frequently,Unknown
+376,No, Sales Executive ,2,18,13,0,3,Non Travel,Unknown
+377,No, Laboratory Technician ,1,8,7,7,2,Non Travel,No
+378,No, Sales Executive ,3,15,12,6,2,Travel Frequently,Unknown
+379,No, Sales Executive ,2,7,5,7,3,Travel Rarely,Unknown
+380,No, Manager ,4,9,2,6,3,Unknown,No
+381,Yes, Healthcare Representative ,3,10,9,1,2,Non Travel,No
+382,No, Research Scientist ,2,8,7,1,4,Travel Rarely,No
+383,Yes, Sales Executive ,3,8,7,4,2,Unknown,Unknown
+384,Yes, Research Scientist ,2,13,8,3,4,Travel Frequently,No
+385,Yes, Laboratory Technician ,1,7,6,5,3,Unknown,Unknown
+386,No, Sales Executive ,3,8,7,2,2,Unknown,Yes
+387,No, Manufacturing Director ,3,9,7,1,3,Unknown,Unknown
+388,No, Manufacturing Director ,3,8,1,0,1,Travel Frequently,No
+389,Yes, Healthcare Representative ,4,18,5,11,4,Travel Frequently,No
+390,No, Research Director ,5,20,9,4,2,Travel Rarely,No
+391,No, Manufacturing Director ,2,10,2,1,2,Travel Rarely,Unknown
+392,No, Research Director ,3,18,13,2,3,Unknown,No
+393,No, Laboratory Technician ,1,8,7,0,2,Travel Rarely,Unknown
+394,No, Manufacturing Director ,3,7,4,6,2,Travel Rarely,No
+395,No, Manager ,5,7,7,4,6,Unknown,No
+396,No, Sales Executive ,2,7,7,1,2,Unknown,Unknown
+397,No, Sales Executive ,2,10,1,0,3,Unknown,No
+398,No, Laboratory Technician ,1,7,7,1,4,Unknown,No
+399,No, Laboratory Technician ,2,10,9,8,4,Travel Rarely,Unknown
+400,No, Sales Executive ,2,11,9,1,3,Unknown,Unknown
+401,No, Research Scientist ,2,8,7,0,2,Unknown,Yes
+402,No, Manufacturing Director ,3,7,7,7,2,Unknown,Yes
+403,No, Research Scientist ,1,9,8,6,3,Travel Rarely,Unknown
+404,No, Research Director ,5,8,7,0,2,Unknown,No
+405,No, Research Director ,4,7,7,1,2,Travel Rarely,No
+406,No, Manufacturing Director ,3,9,4,5,6,Unknown,No
+407,No, Sales Executive ,3,21,17,15,3,Travel Rarely,No
+408,Yes, Healthcare Representative ,3,10,5,0,2,Travel Rarely,Unknown
+409,Yes, Laboratory Technician ,1,7,7,7,2,Unknown,Yes
+410,No, Sales Executive ,2,10,8,0,4,Travel Rarely,Unknown
+411,No, Healthcare Representative ,3,7,7,1,0,Travel Rarely,No
+412,Yes, Sales Executive ,3,8,7,7,2,Unknown,Yes
+413,No, Manufacturing Director ,2,8,7,1,6,Travel Rarely,Unknown
+414,No, Healthcare Representative ,3,9,6,1,0,Unknown,Unknown
+415,No, Sales Executive ,2,7,7,1,3,Unknown,Unknown
+416,No, Sales Executive ,2,15,13,6,2,Travel Frequently,No
+417,No, Laboratory Technician ,2,9,0,0,0,Unknown,No
+418,Yes, Sales Executive ,4,19,8,3,2,Unknown,Unknown
+419,No, Laboratory Technician ,2,8,7,7,1,Unknown,Unknown
+420,No, Research Scientist ,2,20,8,1,3,Unknown,Yes
+421,No, Manager ,4,20,9,0,5,Travel Rarely,Unknown
+422,No, Laboratory Technician ,1,7,7,0,2,Travel Rarely,No
+423,Yes, Healthcare Representative ,3,8,7,7,1,Unknown,Yes
+424,No, Research Director ,4,20,7,12,3,Unknown,Unknown
+425,No, Research Director ,4,7,0,0,4,Unknown,No
+426,No, Laboratory Technician ,2,8,7,0,2,Non Travel,No
+427,No, Sales Executive ,3,13,9,9,5,Unknown,Unknown
+428,Yes, Sales Executive ,3,7,3,4,1,Unknown,No
+429,No, Healthcare Representative ,3,7,7,0,2,Travel Rarely,Yes
+430,No, Healthcare Representative ,3,8,7,0,3,Travel Rarely,Unknown
+431,No, Sales Executive ,2,10,4,0,3,Travel Rarely,Unknown
+432,Yes, Research Scientist ,1,9,7,0,2,Unknown,No
+433,No, Healthcare Representative ,2,7,7,0,3,Unknown,No
+434,No, Manager ,4,21,7,7,2,Travel Rarely,Yes
+435,No, Sales Executive ,2,8,7,7,2,Unknown,No
+436,Yes, Manufacturing Director ,3,33,9,1,4,Unknown,Unknown
+437,No, Research Director ,5,22,10,1,4,Unknown,Yes
+438,No, Laboratory Technician ,2,10,4,1,3,Unknown,Unknown
+439,No, Sales Executive ,2,10,5,4,2,Non Travel,Unknown
+440,No, Manufacturing Director ,2,9,2,7,3,Travel Frequently,Unknown
+441,No, Manufacturing Director ,2,7,7,7,3,Unknown,Unknown
+442,No, Laboratory Technician ,1,7,7,0,3,Unknown,No
+443,No, Manufacturing Director ,2,10,9,3,3,Travel Rarely,Unknown
+444,No, Human Resources ,2,10,2,0,3,Unknown,Yes
+445,No, Manufacturing Director ,2,7,7,0,6,Unknown,Unknown
+446,No, Manager ,4,8,0,0,2,Unknown,Unknown
+447,Yes, Sales Representative ,1,9,7,7,3,Travel Frequently,Unknown
+448,No, Laboratory Technician ,1,7,7,5,5,Unknown,No
+449,No, Healthcare Representative ,3,8,7,6,2,Travel Rarely,Unknown
+450,No, Sales Representative ,2,13,7,6,2,Unknown,Unknown
+451,No, Healthcare Representative ,2,10,9,0,3,Unknown,No
+452,No, Manufacturing Director ,2,7,7,0,3,Unknown,Unknown
+453,No, Research Scientist ,1,9,7,0,2,Travel Frequently,Unknown
+454,No, Sales Executive ,3,7,7,1,2,Unknown,No
+455,No, Sales Executive ,2,11,7,1,2,Non Travel,No
+456,No, Research Scientist ,1,7,7,0,3,Unknown,No
+457,No, Human Resources ,1,9,8,1,5,Travel Rarely,No
+458,No, Sales Executive ,2,12,7,5,3,Travel Rarely,Unknown
+459,Yes, Sales Executive ,2,10,7,7,2,Unknown,Unknown
+460,No, Manufacturing Director ,2,7,7,1,6,Non Travel,No
+461,No, Manufacturing Director ,3,7,2,0,3,Unknown,No
+462,Yes, Healthcare Representative ,2,9,7,3,2,Travel Rarely,No
+463,No, Sales Executive ,2,8,7,5,3,Non Travel,Unknown
+464,No, Sales Executive ,2,7,7,7,5,Travel Frequently,Unknown
+465,Yes, Sales Executive ,3,8,7,0,2,Unknown,Unknown
+466,No, Manager ,4,19,16,11,3,Travel Rarely,Unknown
+467,No, Sales Executive ,2,8,7,0,5,Travel Rarely,No
+468,No, Research Director ,3,13,7,5,3,Unknown,No
+469,No, Laboratory Technician ,1,7,7,7,3,Travel Frequently,No
+470,No, Sales Executive ,2,7,7,0,2,Travel Frequently,Unknown
+471,No, Research Scientist ,2,8,7,1,4,Unknown,Unknown
+472,No, Sales Executive ,3,8,1,1,2,Travel Rarely,No
+473,No, Laboratory Technician ,1,7,6,7,6,Unknown,No
+474,No, Sales Executive ,2,7,7,0,5,Travel Rarely,Unknown
+475,Yes, Sales Executive ,2,10,8,0,4,Travel Frequently,Yes
+476,No, Healthcare Representative ,2,9,8,2,2,Travel Frequently,Unknown
+477,No, Research Director ,3,11,8,4,2,Unknown,No
+478,No, Research Scientist ,2,10,8,0,5,Unknown,No
+479,No, Healthcare Representative ,2,9,1,8,6,Travel Rarely,Yes
+480,No, Research Scientist ,2,7,7,1,2,Travel Rarely,No
+481,No, Sales Executive ,3,9,4,3,2,Travel Rarely,No
+482,No, Manufacturing Director ,4,20,10,0,3,Travel Rarely,No
+483,No, Sales Executive ,2,8,7,1,2,Unknown,No
+484,No, Sales Executive ,2,10,9,1,1,Travel Rarely,No
+485,No, Healthcare Representative ,3,7,7,1,5,Travel Rarely,Unknown
+486,No, Research Director ,3,12,11,2,4,Travel Rarely,No
+487,No, Healthcare Representative ,3,22,17,5,4,Travel Rarely,Unknown
+488,No, Sales Executive ,2,9,8,0,4,Unknown,Unknown
+489,No, Manager ,4,7,7,7,2,Travel Frequently,Unknown
+490,No, Healthcare Representative ,3,19,8,11,1,Unknown,No
+491,No, Laboratory Technician ,1,9,8,7,4,Travel Rarely,Yes
+492,No, Manager ,3,10,8,8,2,Travel Frequently,Unknown
+493,No, Manufacturing Director ,3,16,13,0,5,Travel Rarely,No
+494,Yes, Manager ,3,7,7,7,2,Travel Rarely,Unknown
+495,No, Manufacturing Director ,4,20,13,5,3,Travel Rarely,No
+496,No, Manager ,5,21,6,12,2,Travel Rarely,No
+497,No, Healthcare Representative ,2,7,7,0,2,Unknown,No
+498,No, Manager ,4,34,16,1,3,Travel Rarely,Unknown
+499,No, Manager ,4,20,17,4,2,Travel Rarely,No
+500,No, Sales Executive ,2,7,7,7,2,Travel Rarely,Unknown
+501,No, Manager ,4,31,7,14,3,Non Travel,Unknown
+502,No, Healthcare Representative ,2,10,7,0,2,Travel Rarely,Unknown
+503,No, Manufacturing Director ,4,21,8,11,3,Travel Rarely,No
+504,No, Manufacturing Director ,3,21,8,2,2,Travel Frequently,Unknown
+505,No, Research Scientist ,1,10,8,0,3,Unknown,No
+506,Yes, Human Resources ,3,20,6,3,1,Unknown,No
+507,No, Manager ,4,22,7,13,3,Unknown,No
+508,No, Healthcare Representative ,3,8,0,4,4,Travel Rarely,Unknown
+509,No, Human Resources ,1,7,0,5,2,Unknown,No
+510,No, Human Resources ,1,7,7,5,3,Unknown,Unknown
+511,No, Research Scientist ,2,9,1,1,3,Unknown,Unknown
+512,No, Manufacturing Director ,2,8,7,1,2,Travel Rarely,Unknown
+513,No, Research Director ,4,20,17,14,1,Unknown,No
+514,No, Research Director ,4,32,9,13,2,Unknown,Unknown
+515,No, Manager ,5,36,13,2,3,Travel Rarely,No
+516,No, Sales Executive ,3,7,6,7,3,Unknown,No
+517,No, Laboratory Technician ,1,9,4,1,3,Unknown,Unknown
+518,No, Research Director ,4,21,6,8,2,Unknown,Unknown
+519,No, Sales Executive ,3,10,3,0,5,Unknown,Unknown
+520,No, Research Scientist ,1,7,3,7,2,Unknown,No
+521,No, Manager ,5,22,14,4,2,Travel Rarely,Unknown
+522,No, Sales Executive ,2,9,8,0,3,Unknown,Unknown
+523,No, Laboratory Technician ,2,9,8,0,3,Travel Rarely,Yes
+524,No, Sales Executive ,2,9,7,8,2,Non Travel,No
+525,No, Manufacturing Director ,2,7,7,0,2,Unknown,No
+526,No, Manufacturing Director ,2,6,3,0,3,Unknown,No
+527,No, Research Scientist ,1,6,3,0,2,Unknown,Unknown
+528,No, Research Scientist ,1,6,5,1,1,Travel Rarely,No
+529,No, Manufacturing Director ,2,6,4,1,6,Unknown,No
+530,No, Sales Executive ,2,7,7,0,1,Unknown,No
+531,No, Healthcare Representative ,2,6,4,0,4,Travel Frequently,No
+532,No, Sales Executive ,2,6,5,0,2,Travel Rarely,Yes
+533,No, Manufacturing Director ,3,6,2,1,3,Travel Rarely,Unknown
+534,No, Sales Executive ,3,9,7,7,6,Non Travel,No
+535,No, Manufacturing Director ,2,6,3,4,2,Travel Rarely,Unknown
+536,No, Research Scientist ,1,6,4,1,3,Travel Rarely,Unknown
+537,No, Manager ,5,32,7,10,2,Unknown,No
+538,No, Research Scientist ,1,6,3,1,3,Unknown,Yes
+539,No, Sales Executive ,2,6,4,0,3,Travel Frequently,Unknown
+540,No, Sales Executive ,2,6,4,1,5,Unknown,No
+541,No, Sales Executive ,2,6,4,1,5,Unknown,No
+542,No, Research Scientist ,1,6,3,1,3,Unknown,Unknown
+543,No, Manufacturing Director ,3,8,6,1,3,Unknown,No
+544,No, Research Scientist ,1,6,1,1,3,Unknown,Unknown
+545,No, Healthcare Representative ,2,6,2,1,2,Unknown,Yes
+546,No, Research Scientist ,1,7,7,1,1,Unknown,No
+547,No, Research Scientist ,1,7,1,1,2,Travel Frequently,No
+548,No, Sales Executive ,2,6,3,1,3,Unknown,Unknown
+549,No, Laboratory Technician ,1,6,3,3,2,Travel Rarely,Unknown
+550,No, Research Scientist ,1,10,7,7,5,Unknown,Unknown
+551,No, Healthcare Representative ,2,6,1,0,2,Travel Rarely,Yes
+552,No, Research Scientist ,1,8,2,2,2,Unknown,Yes
+553,No, Research Scientist ,1,6,2,1,2,Travel Rarely,No
+554,No, Laboratory Technician ,1,6,3,1,2,Unknown,No
+555,No, Research Scientist ,2,6,2,1,3,Unknown,Unknown
+556,No, Research Scientist ,2,9,6,1,4,Unknown,No
+557,No, Sales Executive ,2,6,2,1,2,Non Travel,Yes
+558,Yes, Sales Executive ,4,23,10,14,3,Unknown,No
+559,Yes, Sales Executive ,2,6,5,0,0,Unknown,Yes
+560,No, Laboratory Technician ,1,5,3,0,5,Travel Rarely,Unknown
+561,No, Research Scientist ,1,5,4,0,3,Travel Rarely,No
+562,No, Research Scientist ,2,10,9,0,3,Travel Rarely,No
+563,No, Research Scientist ,1,6,4,0,3,Travel Rarely,No
+564,No, Manufacturing Director ,3,6,2,0,3,Unknown,No
+565,No, Sales Executive ,2,5,4,0,3,Unknown,Unknown
+566,Yes, Sales Executive ,2,6,3,0,1,Travel Rarely,Yes
+567,Yes, Research Scientist ,1,5,3,4,2,Unknown,Unknown
+568,No, Research Scientist ,1,5,3,4,3,Unknown,Unknown
+569,Yes, Laboratory Technician ,1,5,4,0,2,Unknown,No
+570,No, Research Scientist ,1,5,4,0,4,Travel Rarely,No
+571,No, Manager ,5,5,4,4,5,Travel Rarely,Unknown
+572,No, Research Scientist ,1,5,4,1,2,Unknown,No
+573,No, Sales Executive ,2,5,3,0,3,Travel Rarely,Unknown
+574,No, Research Scientist ,1,5,2,2,3,Unknown,No
+575,Yes, Sales Executive ,3,10,9,1,3,Unknown,Unknown
+576,No, Manufacturing Director ,2,5,4,1,2,Non Travel,Unknown
+577,Yes, Laboratory Technician ,1,5,4,0,2,Unknown,Yes
+578,Yes, Laboratory Technician ,1,5,4,1,2,Unknown,No
+579,No, Sales Executive ,2,5,1,0,5,Unknown,No
+580,No, Research Director ,5,10,6,1,4,Unknown,No
+581,No, Sales Executive ,4,20,8,4,2,Travel Frequently,Unknown
+582,No, Sales Executive ,2,5,4,0,3,Unknown,Yes
+583,No, Sales Executive ,2,5,4,1,0,Non Travel,Yes
+584,No, Manufacturing Director ,2,5,2,1,3,Travel Rarely,Yes
+585,No, Laboratory Technician ,1,5,3,0,3,Travel Rarely,No
+586,Yes, Sales Executive ,2,6,0,1,6,Unknown,Yes
+587,No, Manager ,4,5,2,1,2,Unknown,Yes
+588,Yes, Research Scientist ,1,6,4,0,2,Travel Frequently,Unknown
+589,No, Sales Executive ,2,5,3,1,5,Travel Rarely,Unknown
+590,No, Sales Executive ,2,5,3,1,3,Unknown,Yes
+591,No, Sales Executive ,2,5,4,4,6,Unknown,No
+592,No, Manufacturing Director ,3,5,4,0,4,Travel Rarely,Unknown
+593,No, Research Scientist ,2,5,2,0,3,Travel Frequently,No
+594,No, Manufacturing Director ,2,5,2,0,2,Travel Rarely,No
+595,No, Laboratory Technician ,1,5,3,4,2,Travel Rarely,No
+596,No, Manager ,3,5,1,0,3,Travel Rarely,Unknown
+597,No, Sales Executive ,2,5,3,0,3,Travel Rarely,Unknown
+598,No, Sales Representative ,1,7,6,0,1,Unknown,Unknown
+599,No, Research Scientist ,2,6,5,0,2,Travel Rarely,Unknown
+600,Yes, Sales Executive ,2,5,3,1,2,Unknown,Yes
+601,No, Research Scientist ,1,5,3,0,3,Travel Frequently,No
+602,No, Sales Executive ,3,5,2,0,2,Unknown,Yes
+603,No, Human Resources ,1,5,3,0,3,Travel Rarely,Unknown
+604,No, Research Scientist ,1,6,2,0,2,Unknown,Unknown
+605,No, Sales Representative ,1,5,0,0,3,Travel Frequently,Unknown
+606,No, Human Resources ,2,5,4,0,2,Travel Rarely,No
+607,No, Sales Executive ,2,5,3,0,6,Unknown,Unknown
+608,No, Sales Executive ,3,8,7,7,2,Travel Rarely,No
+609,No, Research Director ,4,5,3,1,1,Unknown,No
+610,No, Manager ,3,6,4,0,1,Travel Rarely,Yes
+611,No, Sales Executive ,3,9,0,7,4,Unknown,No
+612,No, Research Scientist ,1,5,3,0,4,Unknown,No
+613,No, Manager ,4,5,1,2,3,Unknown,No
+614,No, Laboratory Technician ,2,5,3,0,2,Unknown,No
+615,No, Human Resources ,1,5,4,1,2,Travel Rarely,No
+616,No, Sales Executive ,2,6,5,1,3,Travel Rarely,No
+617,Yes, Research Scientist ,1,6,2,0,4,Unknown,Yes
+618,No, Research Scientist ,1,5,3,1,2,Travel Rarely,Yes
+619,No, Human Resources ,1,5,4,1,2,Unknown,No
+620,No, Manufacturing Director ,3,5,4,1,2,Travel Frequently,No
+621,No, Manager ,5,11,8,0,2,Unknown,Unknown
+622,No, Manufacturing Director ,2,8,7,1,3,Non Travel,Yes
+623,Yes, Laboratory Technician ,2,10,1,1,3,Travel Rarely,Unknown
+624,Yes, Sales Executive ,3,5,0,1,2,Unknown,Yes
+625,No, Research Scientist ,1,5,0,0,2,Non Travel,No
+626,No, Sales Executive ,2,5,4,1,2,Travel Rarely,Unknown
+627,No, Research Scientist ,1,6,3,1,2,Unknown,Yes
+628,No, Sales Executive ,2,5,2,1,2,Unknown,Unknown
+629,No, Healthcare Representative ,3,6,5,0,2,Non Travel,No
+630,No, Laboratory Technician ,1,5,4,0,2,Travel Rarely,No
+631,No, Sales Executive ,2,5,1,0,3,Unknown,Yes
+632,No, Laboratory Technician ,2,10,8,1,2,Unknown,Unknown
+633,No, Sales Executive ,2,5,3,0,3,Travel Rarely,Yes
+634,No, Laboratory Technician ,1,5,2,0,2,Travel Rarely,No
+635,No, Sales Executive ,2,5,3,1,4,Unknown,Unknown
+636,No, Laboratory Technician ,1,5,2,0,5,Travel Rarely,No
+637,No, Sales Executive ,2,5,2,1,4,Travel Rarely,Unknown
+638,Yes, Laboratory Technician ,1,5,0,1,3,Unknown,Unknown
+639,No, Research Scientist ,1,5,3,0,3,Travel Rarely,No
+640,No, Sales Executive ,2,8,1,7,5,Travel Rarely,Unknown
+641,No, Healthcare Representative ,2,6,3,1,0,Unknown,Unknown
+642,No, Sales Executive ,2,5,2,1,2,Unknown,No
+643,No, Laboratory Technician ,1,6,2,0,0,Unknown,Unknown
+644,No, Research Scientist ,1,6,1,1,3,Unknown,No
+645,No, Manufacturing Director ,3,5,2,0,6,Unknown,Unknown
+646,No, Research Scientist ,1,8,7,7,2,Travel Rarely,Unknown
+647,No, Manufacturing Director ,2,5,0,1,3,Travel Rarely,No
+648,No, Healthcare Representative ,2,5,4,0,3,Travel Rarely,No
+649,Yes, Laboratory Technician ,1,5,2,1,2,Travel Rarely,Unknown
+650,No, Research Scientist ,1,5,4,1,2,Unknown,Yes
+651,No, Manufacturing Director ,2,5,4,1,3,Travel Frequently,Unknown
+652,No, Laboratory Technician ,1,5,4,0,3,Travel Rarely,No
+653,No, Laboratory Technician ,1,5,3,0,2,Unknown,Unknown
+654,No, Healthcare Representative ,2,7,7,7,3,Unknown,Unknown
+655,No, Laboratory Technician ,1,5,2,0,3,Travel Frequently,Yes
+656,No, Sales Executive ,2,5,4,1,3,Unknown,No
+657,No, Sales Executive ,2,10,9,0,2,Travel Rarely,No
+658,No, Research Director ,5,5,3,4,3,Unknown,No
+659,No, Laboratory Technician ,1,5,2,0,3,Non Travel,No
+660,No, Sales Executive ,2,5,4,0,5,Unknown,Unknown
+661,No, Research Scientist ,1,5,4,0,3,Unknown,No
+662,No, Manufacturing Director ,2,9,7,1,2,Non Travel,No
+663,Yes, Sales Representative ,1,5,3,0,4,Travel Rarely,No
+664,No, Research Scientist ,1,5,4,1,3,Travel Rarely,No
+665,No, Sales Executive ,2,5,3,1,3,Travel Frequently,No
+666,No, Sales Executive ,2,4,3,1,2,Unknown,Unknown
+667,No, Laboratory Technician ,2,10,9,9,2,Unknown,No
+668,No, Research Director ,5,27,8,13,2,Unknown,Unknown
+669,No, Sales Executive ,2,4,3,1,2,Travel Frequently,No
+670,No, Healthcare Representative ,4,22,11,11,3,Travel Frequently,No
+671,No, Research Director ,3,4,3,0,5,Travel Rarely,No
+672,No, Research Director ,5,8,7,0,1,Unknown,Yes
+673,No, Manager ,4,5,4,4,3,Non Travel,Unknown
+674,No, Laboratory Technician ,1,5,2,1,2,Unknown,No
+675,No, Sales Executive ,3,5,3,1,3,Travel Rarely,No
+676,No, Laboratory Technician ,1,5,2,1,3,Travel Rarely,No
+677,No, Sales Representative ,1,4,2,1,3,Travel Frequently,No
+678,No, Healthcare Representative ,3,5,4,1,2,Travel Rarely,Unknown
+679,No, Sales Executive ,2,8,7,0,2,Travel Rarely,Unknown
+680,Yes, Sales Representative ,1,4,2,0,5,Travel Rarely,Yes
+681,No, Manufacturing Director ,2,5,2,0,5,Unknown,Unknown
+682,No, Research Scientist ,1,5,0,2,4,Unknown,Yes
+683,Yes, Sales Executive ,2,6,1,0,5,Unknown,Unknown
+684,Yes, Research Scientist ,1,4,1,0,3,Travel Rarely,Unknown
+685,No, Sales Representative ,1,4,2,1,5,Unknown,No
+686,No, Healthcare Representative ,2,6,5,1,2,Unknown,No
+687,No, Research Director ,4,5,3,1,5,Unknown,Yes
+688,No, Healthcare Representative ,2,5,3,3,3,Unknown,Unknown
+689,No, Research Scientist ,1,5,2,0,3,Unknown,No
+690,No, Healthcare Representative ,2,8,7,0,2,Travel Rarely,Unknown
+691,No, Healthcare Representative ,2,5,2,1,2,Unknown,Yes
+692,No, Research Scientist ,1,4,2,1,2,Travel Rarely,Unknown
+693,No, Research Scientist ,2,4,3,0,4,Travel Frequently,Unknown
+694,No, Sales Executive ,2,4,2,0,2,Travel Rarely,Unknown
+695,No, Sales Executive ,2,4,2,0,3,Non Travel,Unknown
+696,No, Healthcare Representative ,3,4,3,1,2,Travel Rarely,No
+697,Yes, Sales Representative ,1,5,4,1,4,Travel Rarely,Yes
+698,No, Laboratory Technician ,1,5,4,1,3,Unknown,Unknown
+699,No, Research Scientist ,1,7,7,5,3,Unknown,Unknown
+700,Yes, Laboratory Technician ,1,4,3,1,2,Travel Rarely,No
+701,No, Sales Executive ,3,10,7,9,3,Non Travel,Unknown
+702,No, Sales Executive ,2,14,10,1,3,Non Travel,No
+703,No, Laboratory Technician ,1,8,7,0,3,Travel Frequently,No
+704,No, Sales Executive ,2,5,4,1,5,Travel Rarely,Unknown
+705,Yes, Laboratory Technician ,1,6,2,1,4,Travel Frequently,Unknown
+706,No, Research Scientist ,1,5,3,0,5,Unknown,No
+707,Yes, Sales Representative ,1,4,2,0,3,Travel Rarely,No
+708,Yes, Sales Executive ,2,4,3,1,4,Unknown,Unknown
+709,No, Laboratory Technician ,1,4,2,0,2,Travel Rarely,No
+710,No, Human Resources ,2,8,6,3,3,Travel Rarely,Unknown
+711,No, Research Scientist ,1,4,2,1,3,Non Travel,No
+712,Yes, Sales Executive ,2,4,2,1,2,Unknown,No
+713,No, Manufacturing Director ,2,5,4,1,4,Unknown,Yes
+714,No, Research Scientist ,1,5,3,4,3,Travel Rarely,Yes
+715,No, Research Director ,4,4,3,0,3,Travel Rarely,Unknown
+716,No, Manufacturing Director ,2,4,2,0,4,Unknown,Unknown
+717,No, Healthcare Representative ,2,4,2,1,3,Travel Frequently,Unknown
+718,No, Research Scientist ,1,4,1,0,3,Travel Rarely,No
+719,No, Research Scientist ,2,5,3,1,3,Unknown,Unknown
+720,No, Sales Executive ,2,5,3,0,3,Unknown,Yes
+721,No, Laboratory Technician ,2,5,3,1,1,Unknown,Yes
+722,No, Human Resources ,1,4,3,0,4,Unknown,Yes
+723,No, Laboratory Technician ,1,4,3,0,5,Travel Rarely,No
+724,No, Sales Executive ,2,5,3,1,1,Non Travel,Yes
+725,No, Laboratory Technician ,1,5,2,0,2,Travel Rarely,No
+726,No, Manufacturing Director ,2,4,3,0,1,Travel Frequently,No
+727,No, Laboratory Technician ,1,4,1,1,3,Unknown,Unknown
+728,No, Manufacturing Director ,4,5,3,4,4,Travel Rarely,Unknown
+729,No, Manager ,4,9,1,1,4,Unknown,No
+730,No, Human Resources ,1,6,4,0,3,Travel Rarely,No
+731,No, Healthcare Representative ,2,4,1,0,3,Travel Rarely,No
+732,No, Research Scientist ,1,5,3,1,5,Unknown,No
+733,No, Laboratory Technician ,1,5,3,1,2,Unknown,No
+734,No, Research Scientist ,1,5,4,0,2,Unknown,No
+735,No, Laboratory Technician ,1,4,2,1,2,Unknown,No
+736,No, Sales Executive ,2,10,4,1,3,Travel Rarely,No
+737,Yes, Sales Executive ,2,4,3,1,2,Unknown,No
+738,No, Sales Executive ,2,4,3,0,3,Travel Rarely,Unknown
+739,No, Manufacturing Director ,2,6,4,1,3,Travel Rarely,Unknown
+740,No, Human Resources ,2,4,3,0,3,Non Travel,No
+741,No, Sales Executive ,2,4,1,1,4,Unknown,No
+742,No, Research Scientist ,1,5,3,0,2,Unknown,Unknown
+743,No, Manager ,5,7,7,7,4,Travel Rarely,No
+744,No, Sales Executive ,2,9,7,1,2,Travel Frequently,Unknown
+745,No, Sales Executive ,2,5,4,0,0,Unknown,Unknown
+746,No, Manufacturing Director ,4,5,2,0,3,Travel Frequently,Unknown
+747,No, Research Scientist ,1,4,1,1,2,Travel Rarely,No
+748,Yes, Laboratory Technician ,2,4,3,1,2,Travel Frequently,No
+749,No, Research Scientist ,1,4,3,1,2,Travel Frequently,Unknown
+750,No, Sales Executive ,2,4,3,0,3,Unknown,Unknown
+751,No, Sales Executive ,2,4,3,0,2,Unknown,No
+752,Yes, Sales Executive ,2,5,0,0,4,Unknown,No
+753,No, Human Resources ,1,5,3,1,3,Unknown,Unknown
+754,No, Laboratory Technician ,2,4,2,1,2,Unknown,No
+755,No, Manufacturing Director ,2,5,2,0,2,Unknown,No
+756,No, Sales Representative ,1,5,2,4,5,Unknown,Unknown
+757,No, Human Resources ,2,6,2,1,2,Travel Frequently,No
+758,No, Manufacturing Director ,2,5,0,0,5,Unknown,Unknown
+759,No, Manufacturing Director ,2,4,2,0,2,Unknown,No
+760,No, Research Scientist ,1,6,3,1,2,Unknown,Unknown
+761,No, Laboratory Technician ,1,4,3,1,4,Unknown,Unknown
+762,No, Laboratory Technician ,1,4,3,3,3,Travel Frequently,Unknown
+763,No, Healthcare Representative ,3,4,2,1,2,Travel Rarely,No
+764,No, Sales Executive ,2,6,3,1,2,Travel Frequently,Unknown
+765,No, Research Scientist ,1,5,4,0,1,Unknown,No
+766,No, Laboratory Technician ,1,5,2,1,2,Travel Rarely,No
+767,No, Sales Executive ,3,4,2,0,2,Travel Rarely,No
+768,No, Laboratory Technician ,1,5,4,0,6,Travel Rarely,No
+769,No, Laboratory Technician ,1,5,4,0,2,Unknown,No
+770,Yes, Research Scientist ,1,5,3,2,2,Unknown,Yes
+771,No, Research Scientist ,1,5,3,0,6,Travel Rarely,No
+772,No, Research Director ,3,4,2,2,3,Unknown,Unknown
+773,No, Laboratory Technician ,1,4,2,0,5,Unknown,Unknown
+774,Yes, Manufacturing Director ,2,10,8,0,4,Travel Rarely,Unknown
+775,No, Healthcare Representative ,2,5,3,0,3,Unknown,Unknown
+776,No, Sales Executive ,2,5,2,1,4,Travel Rarely,No
+777,No, Research Scientist ,1,6,3,3,1,Unknown,No
+778,No, Sales Executive ,3,5,0,1,3,Travel Rarely,Yes
+779,No, Research Scientist ,2,5,4,0,2,Travel Rarely,Unknown
+780,No, Research Scientist ,1,5,2,1,3,Unknown,No
+781,No, Sales Executive ,2,5,4,0,2,Travel Rarely,Unknown
+782,No, Research Scientist ,1,5,4,1,3,Non Travel,No
+783,No, Healthcare Representative ,2,5,2,0,5,Unknown,No
+784,No, Research Scientist ,2,4,3,2,6,Unknown,No
+785,No, Healthcare Representative ,2,4,2,1,2,Travel Rarely,No
+786,No, Manufacturing Director ,2,8,7,7,1,Travel Frequently,No
+787,No, Research Scientist ,2,4,2,1,3,Unknown,Unknown
+788,No, Research Scientist ,1,5,0,1,3,Unknown,No
+789,No, Sales Executive ,2,5,4,0,3,Travel Rarely,Yes
+790,No, Research Scientist ,1,4,2,1,2,Unknown,Yes
+791,Yes, Sales Executive ,2,6,1,0,3,Unknown,No
+792,No, Sales Executive ,2,6,0,0,2,Unknown,No
+793,No, Sales Executive ,2,5,1,0,3,Unknown,No
+794,No, Research Scientist ,1,5,2,0,2,Unknown,Unknown
+795,No, Research Scientist ,1,4,1,1,5,Travel Rarely,No
+796,No, Laboratory Technician ,2,4,3,0,2,Travel Rarely,Unknown
+797,No, Laboratory Technician ,2,4,2,1,3,Unknown,No
+798,No, Laboratory Technician ,1,2,2,2,3,Travel Rarely,No
+799,No, Research Scientist ,1,5,3,4,1,Unknown,Unknown
+800,No, Laboratory Technician ,1,2,2,1,2,Travel Rarely,Unknown
+801,Yes, Laboratory Technician ,1,4,3,0,4,Travel Rarely,Yes
+802,No, Research Scientist ,1,6,5,0,5,Travel Rarely,Yes
+803,No, Research Scientist ,1,3,2,1,3,Unknown,Yes
+804,No, Manufacturing Director ,2,4,3,1,5,Unknown,No
+805,Yes, Research Scientist ,1,4,3,1,2,Unknown,No
+806,Yes, Research Scientist ,1,10,7,6,5,Travel Frequently,Unknown
+807,No, Manager ,5,2,1,2,2,Travel Rarely,Unknown
+808,No, Healthcare Representative ,2,4,3,1,5,Unknown,Unknown
+809,Yes, Sales Representative ,1,3,2,0,2,Travel Rarely,Unknown
+810,No, Sales Representative ,1,2,2,2,3,Unknown,No
+811,Yes, Laboratory Technician ,1,2,2,2,3,Unknown,Yes
+812,No, Sales Executive ,2,2,0,0,2,Unknown,Yes
+813,No, Laboratory Technician ,1,2,2,2,3,Travel Rarely,Yes
+814,No, Research Scientist ,1,3,2,1,2,Unknown,No
+815,No, Research Director ,3,5,2,0,3,Travel Rarely,Unknown
+816,No, Human Resources ,2,4,2,0,2,Travel Rarely,Yes
+817,No, Manufacturing Director ,2,5,3,1,2,Travel Rarely,No
+818,No, Laboratory Technician ,1,4,3,0,4,Travel Rarely,Unknown
+819,No, Sales Executive ,2,3,2,0,2,Travel Rarely,No
+820,No, Laboratory Technician ,2,3,2,1,3,Unknown,Unknown
+821,Yes, Human Resources ,1,3,2,0,3,Travel Rarely,Unknown
+822,No, Manager ,5,3,2,2,3,Non Travel,No
+823,No, Research Scientist ,1,2,1,2,2,Unknown,No
+824,No, Research Scientist ,1,3,2,1,2,Unknown,Unknown
+825,No, Sales Executive ,3,2,1,2,3,Travel Frequently,No
+826,Yes, Sales Executive ,2,2,2,2,2,Travel Rarely,Yes
+827,No, Manufacturing Director ,2,3,1,0,0,Unknown,No
+828,Yes, Manufacturing Director ,3,4,3,0,2,Travel Frequently,Unknown
+829,No, Sales Executive ,2,2,2,2,3,Unknown,Unknown
+830,No, Research Scientist ,2,3,2,2,2,Travel Rarely,Yes
+831,No, Research Scientist ,1,3,2,2,3,Travel Rarely,No
+832,No, Research Scientist ,1,2,2,2,6,Unknown,No
+833,No, Research Scientist ,1,2,2,2,1,Non Travel,Unknown
+834,No, Research Scientist ,1,5,2,0,2,Unknown,No
+835,No, Research Scientist ,1,5,1,1,3,Unknown,Unknown
+836,No, Research Scientist ,1,2,2,2,3,Travel Rarely,Unknown
+837,No, Laboratory Technician ,1,2,1,2,3,Travel Rarely,Unknown
+838,No, Research Scientist ,1,4,2,0,0,Travel Rarely,Unknown
+839,No, Research Scientist ,1,3,2,1,3,Travel Rarely,No
+840,No, Laboratory Technician ,1,3,2,0,2,Unknown,Unknown
+841,No, Manufacturing Director ,2,4,3,1,3,Unknown,No
+842,No, Laboratory Technician ,2,6,2,1,5,Travel Frequently,Unknown
+843,No, Manufacturing Director ,2,2,0,2,1,Travel Frequently,Unknown
+844,No, Laboratory Technician ,2,7,7,3,2,Unknown,Unknown
+845,No, Research Scientist ,1,4,2,2,2,Unknown,Unknown
+846,No, Healthcare Representative ,2,3,2,0,5,Unknown,No
+847,No, Healthcare Representative ,3,4,3,0,3,Unknown,No
+848,Yes, Research Scientist ,1,5,4,0,5,Unknown,Yes
+849,Yes, Research Scientist ,1,6,5,1,1,Unknown,Unknown
+850,No, Sales Executive ,2,6,5,0,4,Unknown,Unknown
+851,No, Research Scientist ,1,3,1,1,3,Travel Rarely,Unknown
+852,No, Laboratory Technician ,1,2,2,2,3,Travel Rarely,Unknown
+853,No, Human Resources ,1,2,2,2,2,Travel Rarely,Unknown
+854,Yes, Laboratory Technician ,1,3,2,1,2,Unknown,Unknown
+855,No, Laboratory Technician ,1,3,2,1,1,Unknown,No
+856,No, Sales Executive ,2,3,2,2,2,Non Travel,No
+857,No, Research Director ,3,2,2,2,3,Unknown,No
+858,No, Research Scientist ,1,2,2,0,2,Travel Rarely,Unknown
+859,No, Manufacturing Director ,2,3,2,0,1,Unknown,Unknown
+860,No, Research Scientist ,2,3,2,0,1,Unknown,Yes
+861,No, Sales Executive ,2,3,2,0,2,Unknown,No
+862,No, Manufacturing Director ,2,4,2,1,3,Travel Rarely,No
+863,No, Laboratory Technician ,2,6,4,0,5,Unknown,No
+864,No, Research Scientist ,1,5,4,0,3,Travel Rarely,No
+865,No, Research Scientist ,1,3,0,1,4,Travel Rarely,No
+866,No, Research Director ,3,5,2,0,2,Non Travel,Yes
+867,No, Healthcare Representative ,2,2,2,1,2,Travel Rarely,Unknown
+868,Yes, Laboratory Technician ,1,3,2,0,2,Travel Rarely,Yes
+869,No, Research Director ,5,3,2,1,4,Unknown,Yes
+870,No, Sales Representative ,1,2,2,2,5,Travel Frequently,Unknown
+871,No, Research Scientist ,1,4,2,1,3,Travel Frequently,Unknown
+872,No, Research Scientist ,1,5,3,0,4,Travel Rarely,Unknown
+873,No, Human Resources ,2,2,0,1,1,Travel Rarely,No
+874,No, Research Scientist ,1,2,2,2,2,Unknown,Unknown
+875,Yes, Research Scientist ,2,8,7,7,3,Unknown,No
+876,Yes, Research Scientist ,1,3,2,2,4,Unknown,Yes
+877,No, Research Director ,5,3,1,1,2,Travel Rarely,Unknown
+878,No, Laboratory Technician ,1,3,2,2,2,Unknown,No
+879,No, Manufacturing Director ,2,6,4,0,2,Unknown,No
+880,No, Research Scientist ,1,4,2,0,2,Unknown,Unknown
+881,No, Human Resources ,1,3,0,1,5,Travel Rarely,Yes
+882,No, Sales Executive ,2,2,2,2,2,Unknown,Unknown
+883,Yes, Sales Representative ,1,3,2,1,3,Unknown,Unknown
+884,No, Healthcare Representative ,2,3,2,1,2,Travel Rarely,No
+885,No, Sales Representative ,1,3,2,2,3,Unknown,Unknown
+886,No, Research Scientist ,1,2,2,2,5,Travel Rarely,Unknown
+887,No, Research Scientist ,1,3,2,1,4,Unknown,No
+888,No, Laboratory Technician ,1,5,4,0,2,Travel Rarely,No
+889,No, Healthcare Representative ,3,5,0,0,2,Travel Rarely,No
+890,No, Research Scientist ,1,2,2,2,3,Travel Rarely,No
+891,Yes, Sales Executive ,2,5,4,0,3,Non Travel,Yes
+892,No, Sales Executive ,2,5,3,0,2,Unknown,Yes
+893,No, Laboratory Technician ,1,5,2,1,5,Unknown,No
+894,No, Research Director ,5,4,2,1,4,Unknown,Unknown
+895,No, Sales Executive ,2,3,2,1,3,Unknown,No
+896,No, Laboratory Technician ,1,3,2,1,1,Unknown,Unknown
+897,No, Healthcare Representative ,2,5,2,0,3,Travel Rarely,Yes
+898,No, Laboratory Technician ,1,4,2,3,3,Travel Rarely,No
+899,Yes, Laboratory Technician ,1,2,2,0,5,Travel Rarely,No
+900,No, Research Scientist ,1,2,2,0,3,Unknown,No
+901,No, Manager ,4,5,4,1,2,Travel Rarely,No
+902,Yes, Sales Representative ,1,2,0,1,3,Travel Frequently,No
+903,No, Research Scientist ,1,3,2,0,3,Travel Rarely,No
+904,No, Research Director ,3,10,7,0,2,Unknown,No
+905,Yes, Research Scientist ,1,2,1,1,2,Unknown,No
+906,No, Research Director ,4,3,1,0,2,Unknown,No
+907,No, Sales Executive ,3,3,2,1,3,Unknown,Unknown
+908,No, Sales Representative ,1,3,2,1,3,Travel Rarely,Unknown
+909,Yes, Human Resources ,3,3,2,0,2,Travel Frequently,Yes
+910,No, Laboratory Technician ,1,2,0,2,4,Unknown,No
+911,Yes, Laboratory Technician ,1,2,2,1,3,Unknown,No
+912,No, Manufacturing Director ,2,3,2,1,2,Travel Rarely,No
+913,No, Healthcare Representative ,3,2,2,1,3,Travel Frequently,No
+914,Yes, Sales Executive ,2,4,2,1,2,Unknown,Unknown
+915,No, Sales Representative ,1,2,1,2,3,Unknown,No
+916,No, Laboratory Technician ,2,3,2,0,3,Travel Rarely,No
+917,No, Healthcare Representative ,2,10,2,2,4,Unknown,No
+918,No, Manager ,4,3,2,0,3,Travel Rarely,No
+919,No, Human Resources ,2,2,2,0,1,Travel Rarely,No
+920,No, Sales Representative ,1,8,6,0,3,Unknown,Yes
+921,No, Sales Representative ,1,3,2,1,2,Unknown,Unknown
+922,No, Manager ,5,2,1,0,2,Travel Rarely,Unknown
+923,No, Research Scientist ,1,2,2,2,3,Travel Rarely,Unknown
+924,No, Laboratory Technician ,1,3,2,0,2,Travel Rarely,Yes
+925,No, Manufacturing Director ,2,3,2,0,2,Unknown,Yes
+926,No, Research Scientist ,1,4,1,1,0,Unknown,Unknown
+927,No, Research Scientist ,1,3,2,0,3,Travel Rarely,Unknown
+928,No, Sales Executive ,2,3,2,1,4,Unknown,No
+929,No, Sales Executive ,2,2,2,2,3,Unknown,Unknown
+930,Yes, Sales Executive ,2,2,0,2,3,Travel Rarely,No
+931,No, Sales Executive ,2,2,2,2,1,Travel Rarely,No
+932,No, Sales Representative ,1,2,2,2,2,Unknown,No
+933,No, Laboratory Technician ,1,5,4,1,5,Non Travel,Unknown
+934,No, Sales Executive ,4,22,13,11,2,Travel Frequently,Yes
+935,Yes, Research Scientist ,1,2,2,2,2,Unknown,Unknown
+936,No, Sales Executive ,2,2,2,2,5,Travel Frequently,Unknown
+937,No, Research Scientist ,1,4,3,2,2,Unknown,Unknown
+938,No, Sales Representative ,1,2,2,2,2,Unknown,No
+939,No, Laboratory Technician ,2,2,2,2,4,Unknown,Unknown
+940,No, Research Scientist ,1,2,2,0,3,Travel Rarely,Unknown
+941,Yes, Manager ,5,5,4,1,2,Unknown,Yes
+942,No, Laboratory Technician ,1,2,0,2,2,Travel Frequently,No
+943,No, Research Scientist ,1,4,3,1,2,Travel Rarely,No
+944,No, Sales Executive ,2,4,1,1,3,Unknown,Unknown
+945,No, Sales Representative ,1,3,2,0,1,Travel Rarely,No
+946,No, Laboratory Technician ,1,2,2,0,2,Travel Rarely,No
+947,No, Sales Executive ,2,3,2,1,1,Unknown,No
+948,No, Laboratory Technician ,2,5,4,1,3,Travel Rarely,Unknown
+949,Yes, Sales Executive ,2,3,2,0,3,Travel Rarely,Unknown
+950,No, Research Scientist ,1,2,2,2,0,Travel Rarely,No
+951,Yes, Research Scientist ,1,2,1,2,3,Unknown,No
+952,No, Human Resources ,1,5,4,0,2,Travel Rarely,Unknown
+953,No, Research Scientist ,1,5,3,1,3,Travel Frequently,No
+954,No, Human Resources ,1,3,2,0,1,Unknown,Unknown
+955,No, Healthcare Representative ,2,5,3,2,2,Travel Rarely,Unknown
+956,No, Sales Executive ,2,5,3,0,3,Unknown,Unknown
+957,No, Sales Executive ,3,5,4,0,3,Unknown,Yes
+958,No, Manufacturing Director ,2,2,2,2,2,Unknown,Unknown
+959,No, Laboratory Technician ,1,3,2,0,2,Travel Rarely,Yes
+960,Yes, Research Scientist ,1,10,8,7,3,Travel Frequently,Unknown
+961,No, Sales Executive ,2,5,3,0,1,Unknown,No
+962,No, Research Scientist ,1,4,2,0,2,Travel Rarely,No
+963,No, Laboratory Technician ,1,5,4,3,2,Non Travel,Unknown
+964,No, Sales Representative ,1,2,2,1,3,Travel Rarely,Unknown
+965,Yes, Sales Representative ,1,3,2,0,3,Travel Rarely,Yes
+966,No, Healthcare Representative ,2,5,2,2,2,Travel Frequently,Unknown
+967,No, Sales Executive ,2,4,2,0,3,Travel Rarely,Unknown
+968,Yes, Sales Representative ,1,2,2,0,3,Travel Rarely,Unknown
+969,No, Sales Representative ,1,3,2,1,3,Unknown,Yes
+970,Yes, Manufacturing Director ,2,3,2,0,3,Travel Rarely,Yes
+971,No, Research Scientist ,1,2,2,2,2,Unknown,No
+972,Yes, Laboratory Technician ,1,2,2,2,2,Unknown,Unknown
+973,No, Research Scientist ,1,3,2,0,1,Travel Rarely,Unknown
+974,No, Research Scientist ,1,6,1,0,6,Travel Rarely,Unknown
+975,No, Sales Executive ,2,5,0,1,3,Travel Rarely,Unknown
+976,Yes, Research Scientist ,1,3,2,1,0,Unknown,Yes
+977,No, Research Scientist ,1,3,2,0,4,Travel Rarely,Unknown
+978,No, Laboratory Technician ,1,2,2,2,2,Unknown,No
+979,Yes, Research Scientist ,1,5,1,0,2,Travel Rarely,Unknown
+980,No, Manufacturing Director ,2,4,2,3,6,Unknown,No
+981,Yes, Laboratory Technician ,1,4,2,0,2,Travel Rarely,Yes
+982,Yes, Laboratory Technician ,1,3,2,1,3,Unknown,Unknown
+983,No, Healthcare Representative ,2,2,2,2,0,Travel Rarely,No
+984,No, Manufacturing Director ,2,2,1,2,6,Travel Rarely,Unknown
+985,No, Manufacturing Director ,2,3,2,2,2,Unknown,Unknown
+986,No, Laboratory Technician ,1,3,2,1,4,Travel Rarely,No
+987,Yes, Sales Executive ,2,2,2,2,6,Non Travel,No
+988,No, Sales Representative ,1,2,2,2,2,Non Travel,Unknown
+989,Yes, Research Scientist ,1,3,2,1,2,Unknown,Unknown
+990,No, Research Scientist ,1,2,2,2,2,Travel Frequently,No
+991,No, Research Director ,5,2,2,2,0,Unknown,No
+992,Yes, Sales Representative ,1,2,2,0,3,Unknown,Yes
+993,No, Manufacturing Director ,2,6,2,0,1,Unknown,Unknown
+994,No, Laboratory Technician ,1,3,2,1,4,Non Travel,Unknown
+995,No, Manufacturing Director ,3,3,2,1,4,Unknown,No
+996,No, Healthcare Representative ,3,3,2,1,2,Travel Rarely,No
+997,No, Laboratory Technician ,1,4,2,2,5,Unknown,No
+998,No, Healthcare Representative ,2,6,4,0,1,Unknown,No
+999,Yes, Research Scientist ,1,2,2,2,0,Unknown,Yes
+1000,No, Sales Executive ,2,3,2,0,3,Unknown,No
+1001,No, Research Scientist ,1,2,2,2,6,Unknown,Yes
+1002,No, Sales Representative ,1,2,2,2,4,Travel Frequently,No
+1003,No, Sales Executive ,2,5,2,0,3,Unknown,Unknown
+1004,No, Manufacturing Director ,2,3,2,0,3,Unknown,No
+1005,Yes, Sales Executive ,2,5,3,0,3,Unknown,Unknown
+1006,Yes, Laboratory Technician ,1,2,2,2,5,Unknown,No
+1007,No, Healthcare Representative ,2,6,3,1,2,Travel Rarely,No
+1008,No, Research Scientist ,1,4,2,2,0,Travel Rarely,No
+1009,No, Laboratory Technician ,1,2,2,2,2,Travel Frequently,Unknown
+1010,No, Manager ,5,5,2,4,2,Unknown,No
+1011,No, Research Scientist ,1,3,2,0,2,Unknown,Yes
+1012,No, Laboratory Technician ,1,2,2,1,2,Travel Rarely,Unknown
+1013,No, Manager ,4,2,2,2,3,Travel Frequently,No
+1014,No, Research Director ,5,4,3,0,2,Unknown,Unknown
+1015,No, Laboratory Technician ,1,2,2,2,2,Unknown,No
+1016,No, Sales Executive ,3,13,12,4,6,Unknown,Unknown
+1017,No, Research Scientist ,1,3,2,1,5,Unknown,No
+1018,Yes, Laboratory Technician ,1,2,2,2,2,Travel Frequently,Unknown
+1019,No, Sales Executive ,2,3,2,0,3,Travel Rarely,Unknown
+1020,No, Laboratory Technician ,1,4,2,0,2,Unknown,Yes
+1021,No, Research Scientist ,1,3,2,2,3,Travel Rarely,Yes
+1022,No, Laboratory Technician ,1,2,2,2,2,Travel Frequently,Unknown
+1023,No, Research Scientist ,1,3,2,1,2,Travel Rarely,Unknown
+1024,No, Research Scientist ,1,2,1,2,3,Unknown,Unknown
+1025,No, Research Scientist ,1,2,2,2,3,Unknown,Unknown
+1026,Yes, Research Scientist ,1,5,3,0,2,Unknown,Unknown
+1027,No, Laboratory Technician ,2,9,7,6,6,Travel Rarely,No
+1028,No, Research Director ,4,3,2,1,2,Unknown,Unknown
+1029,No, Sales Executive ,2,19,9,11,4,Unknown,No
+1030,Yes, Sales Representative ,1,3,2,2,2,Unknown,Yes
+1031,Yes, Laboratory Technician ,1,3,2,1,4,Unknown,No
+1032,No, Research Scientist ,1,4,0,0,0,Non Travel,No
+1033,No, Laboratory Technician ,1,3,2,1,6,Travel Rarely,Unknown
+1034,No, Laboratory Technician ,1,4,3,0,3,Travel Rarely,No
+1035,No, Manufacturing Director ,4,5,3,0,1,Travel Rarely,No
+1036,No, Sales Executive ,2,6,0,0,3,Travel Frequently,No
+1037,Yes, Sales Executive ,2,4,2,3,0,Unknown,Unknown
+1038,No, Research Scientist ,1,4,3,0,2,Unknown,No
+1039,Yes, Manufacturing Director ,2,10,7,6,3,Unknown,Unknown
+1040,No, Sales Executive ,3,4,2,3,5,Unknown,Unknown
+1041,No, Research Scientist ,2,6,3,3,4,Unknown,Unknown
+1042,No, Sales Executive ,2,3,2,1,3,Unknown,Yes
+1043,No, Sales Executive ,2,3,2,1,3,Travel Rarely,No
+1044,No, Sales Executive ,2,6,4,4,3,Unknown,Yes
+1045,Yes, Research Scientist ,1,8,7,7,2,Travel Rarely,Yes
+1046,No, Laboratory Technician ,1,3,2,0,6,Unknown,No
+1047,No, Manufacturing Director ,3,2,2,2,2,Travel Frequently,No
+1048,No, Laboratory Technician ,1,3,2,0,2,Unknown,No
+1049,No, Sales Executive ,2,3,2,0,3,Unknown,No
+1050,No, Research Director ,4,3,0,1,3,Unknown,No
+1051,No, Sales Executive ,2,3,2,0,3,Unknown,No
+1052,Yes, Sales Representative ,1,3,2,2,2,Travel Rarely,No
+1053,No, Research Scientist ,1,3,0,1,3,Unknown,Unknown
+1054,No, Research Scientist ,1,4,3,0,5,Unknown,Unknown
+1055,No, Human Resources ,1,3,2,0,3,Travel Rarely,No
+1056,Yes, Laboratory Technician ,1,2,2,2,2,Travel Frequently,Unknown
+1057,No, Sales Executive ,2,2,2,2,3,Unknown,No
+1058,Yes, Human Resources ,1,2,2,2,0,Unknown,No
+1059,No, Laboratory Technician ,1,5,3,0,5,Unknown,Unknown
+1060,No, Healthcare Representative ,2,3,2,1,0,Travel Rarely,No
+1061,No, Research Scientist ,1,5,3,1,3,Unknown,Unknown
+1062,Yes, Sales Representative ,1,3,2,1,3,Unknown,Unknown
+1063,No, Manufacturing Director ,3,2,2,2,2,Travel Frequently,Unknown
+1064,No, Healthcare Representative ,2,3,2,1,2,Travel Rarely,Unknown
+1065,No, Sales Executive ,2,4,3,1,5,Travel Frequently,Unknown
+1066,No, Laboratory Technician ,2,3,2,1,3,Travel Rarely,Unknown
+1067,No, Laboratory Technician ,1,3,2,0,3,Travel Frequently,No
+1068,No, Manager ,3,5,0,0,5,Unknown,Unknown
+1069,Yes, Research Scientist ,1,7,7,7,2,Travel Frequently,No
+1070,No, Healthcare Representative ,2,2,2,2,2,Unknown,Unknown
+1071,No, Sales Representative ,1,3,2,1,3,Travel Rarely,Yes
+1072,No, Sales Executive ,2,2,2,2,6,Unknown,No
+1073,No, Sales Executive ,3,4,3,1,3,Unknown,Unknown
+1074,Yes, Manufacturing Director ,2,5,4,1,2,Travel Rarely,Unknown
+1075,No, Research Scientist ,1,8,6,7,3,Travel Rarely,Unknown
+1076,No, Research Scientist ,2,2,1,2,3,Unknown,No
+1077,No, Sales Executive ,2,3,2,1,5,Travel Rarely,No
+1078,No, Healthcare Representative ,2,5,4,0,4,Travel Rarely,Yes
+1079,No, Research Scientist ,1,2,2,2,2,Unknown,No
+1080,No, Laboratory Technician ,2,3,2,0,3,Unknown,Yes
+1081,No, Healthcare Representative ,2,8,7,7,3,Travel Frequently,No
+1082,No, Research Scientist ,1,4,3,1,2,Non Travel,Unknown
+1083,No, Research Scientist ,1,3,2,0,3,Unknown,No
+1084,No, Sales Executive ,2,5,3,0,3,Travel Frequently,Unknown
+1085,No, Manufacturing Director ,2,3,1,1,2,Travel Rarely,Yes
+1086,No, Research Scientist ,1,2,2,2,2,Unknown,No
+1087,No, Manager ,5,5,0,1,2,Unknown,No
+1088,No, Manufacturing Director ,2,9,8,3,2,Unknown,No
+1089,No, Manufacturing Director ,3,4,3,3,2,Unknown,Unknown
+1090,No, Manager ,4,2,2,2,3,Travel Frequently,No
+1091,Yes, Sales Executive ,2,2,2,2,2,Unknown,Yes
+1092,No, Research Scientist ,1,3,2,0,0,Travel Rarely,Unknown
+1093,No, Research Scientist ,1,4,2,1,0,Unknown,No
+1094,Yes, Laboratory Technician ,1,4,3,0,3,Travel Rarely,Yes
+1095,No, Sales Executive ,2,5,4,1,2,Unknown,No
+1096,No, Healthcare Representative ,3,3,2,0,6,Unknown,No
+1097,No, Research Director ,4,4,2,1,2,Travel Rarely,Unknown
+1098,No, Sales Representative ,1,2,2,2,3,Travel Rarely,Unknown
+1099,No, Manufacturing Director ,2,3,2,1,6,Non Travel,Unknown
+1100,No, Sales Executive ,2,6,4,0,5,Travel Rarely,Unknown
+1101,No, Laboratory Technician ,1,2,2,2,2,Unknown,Unknown
+1102,No, Manager ,4,3,2,1,2,Travel Rarely,Unknown
+1103,No, Sales Representative ,1,2,2,0,3,Travel Rarely,No
+1104,No, Healthcare Representative ,2,3,2,0,2,Travel Rarely,No
+1105,No, Human Resources ,1,2,2,2,2,Travel Rarely,Yes
+1106,No, Research Scientist ,1,4,2,1,1,Unknown,No
+1107,Yes, Sales Representative ,1,3,2,0,2,Unknown,Yes
+1108,No, Laboratory Technician ,1,3,2,0,3,Unknown,No
+1109,No, Research Scientist ,1,5,3,1,3,Travel Frequently,Unknown
+1110,No, Laboratory Technician ,1,5,3,0,2,Unknown,Unknown
+1111,No, Human Resources ,2,3,2,1,4,Non Travel,No
+1112,No, Laboratory Technician ,1,6,2,1,2,Travel Rarely,No
+1113,Yes, Sales Executive ,2,2,2,2,3,Unknown,Yes
+1114,No, Laboratory Technician ,1,3,2,1,3,Unknown,No
+1115,No, Human Resources ,1,2,1,2,2,Unknown,No
+1116,Yes, Human Resources ,1,4,2,1,0,Travel Frequently,No
+1117,No, Sales Executive ,2,5,2,0,3,Unknown,No
+1118,No, Research Scientist ,1,6,4,1,5,Unknown,Unknown
+1119,Yes, Sales Representative ,1,2,2,2,3,Travel Rarely,Unknown
+1120,No, Healthcare Representative ,2,3,2,0,5,Unknown,Yes
+1121,No, Manufacturing Director ,4,3,2,0,2,Unknown,Yes
+1122,No, Sales Executive ,2,2,2,2,3,Travel Rarely,No
+1123,No, Manager ,3,2,2,2,2,Travel Rarely,No
+1124,No, Sales Executive ,2,5,3,0,2,Travel Rarely,No
+1125,No, Sales Executive ,2,2,2,2,3,Unknown,Unknown
+1126,No, Research Scientist ,1,3,2,1,2,Non Travel,No
+1127,No, Healthcare Representative ,2,3,2,1,3,Travel Rarely,Unknown
+1128,No, Sales Executive ,3,3,2,2,3,Unknown,No
+1129,No, Research Scientist ,1,3,2,1,3,Travel Rarely,No
+1130,No, Sales Representative ,2,4,3,0,4,Unknown,Yes
+1131,No, Research Director ,4,2,2,2,3,Travel Frequently,Unknown
+1132,Yes, Human Resources ,1,2,0,2,3,Travel Rarely,Unknown
+1133,No, Laboratory Technician ,1,2,0,2,2,Travel Rarely,Unknown
+1134,No, Human Resources ,1,3,2,2,2,Unknown,Unknown
+1135,Yes, Sales Executive ,2,2,2,2,3,Travel Rarely,Yes
+1136,No, Research Scientist ,2,2,2,2,2,Travel Rarely,Unknown
+1137,No, Research Scientist ,1,5,4,0,2,Travel Rarely,Unknown
+1138,No, Laboratory Technician ,1,3,2,1,2,Unknown,Unknown
+1139,No, Manufacturing Director ,2,3,2,0,2,Unknown,Unknown
+1140,Yes, Research Scientist ,1,5,0,3,2,Non Travel,Unknown
+1141,Yes, Laboratory Technician ,1,4,0,1,3,Travel Rarely,No
+1142,No, Sales Executive ,2,4,3,1,1,Unknown,Unknown
+1143,No, Sales Executive ,2,5,4,1,2,Unknown,Yes
+1144,No, Sales Executive ,2,4,1,0,3,Unknown,Yes
+1145,No, Laboratory Technician ,1,2,2,2,0,Travel Rarely,No
+1146,No, Healthcare Representative ,2,4,3,0,3,Travel Frequently,No
+1147,No, Sales Executive ,2,3,2,1,1,Unknown,Unknown
+1148,No, Research Scientist ,1,5,3,0,0,Travel Rarely,No
+1149,No, Research Scientist ,1,4,3,2,3,Unknown,Unknown
+1150,Yes, Sales Executive ,3,2,2,2,2,Unknown,Yes
+1151,No, Human Resources ,1,6,2,1,2,Travel Frequently,Yes
+1152,No, Manufacturing Director ,2,5,4,1,3,Unknown,Yes
+1153,No, Laboratory Technician ,1,5,4,1,6,Unknown,No
+1154,No, Laboratory Technician ,1,2,2,0,2,Unknown,Unknown
+1155,No, Sales Representative ,1,2,2,1,1,Unknown,No
+1156,No, Laboratory Technician ,1,2,2,2,3,Travel Rarely,Yes
+1157,No, Research Scientist ,1,3,2,1,2,Unknown,No
+1158,No, Laboratory Technician ,1,6,1,4,3,Travel Rarely,Unknown
+1159,No, Sales Representative ,1,2,2,2,2,Unknown,Unknown
+1160,No, Sales Representative ,1,2,2,1,6,Travel Rarely,Unknown
+1161,No, Manufacturing Director ,2,4,2,0,3,Unknown,No
+1162,Yes, Research Scientist ,1,2,2,2,3,Travel Rarely,Unknown
+1163,No, Research Scientist ,1,4,2,1,4,Travel Rarely,No
+1164,No, Research Scientist ,1,2,2,2,2,Travel Rarely,No
+1165,No, Healthcare Representative ,2,10,2,0,2,Travel Frequently,Unknown
+1166,Yes, Sales Executive ,3,3,0,2,3,Travel Rarely,Unknown
+1167,No, Sales Representative ,1,4,0,0,2,Unknown,No
+1168,No, Laboratory Technician ,2,5,3,0,3,Travel Frequently,No
+1169,No, Manufacturing Director ,2,6,3,0,0,Travel Rarely,Yes
+1170,No, Laboratory Technician ,1,1,0,0,3,Unknown,No
+1171,No, Research Scientist ,1,1,0,0,3,Unknown,Yes
+1172,No, Research Scientist ,1,1,0,1,4,Unknown,No
+1173,No, Laboratory Technician ,1,2,1,2,2,Travel Rarely,Unknown
+1174,No, Research Scientist ,1,1,1,0,2,Unknown,Unknown
+1175,No, Research Scientist ,1,3,2,0,2,Travel Rarely,No
+1176,No, Laboratory Technician ,1,8,7,1,2,Travel Frequently,Unknown
+1177,No, Research Scientist ,1,3,2,0,2,Unknown,Unknown
+1178,No, Laboratory Technician ,1,5,3,0,3,Unknown,Unknown
+1179,No, Manufacturing Director ,2,4,2,1,3,Travel Rarely,Unknown
+1180,No, Healthcare Representative ,4,7,7,0,2,Unknown,Yes
+1181,No, Healthcare Representative ,2,1,0,0,5,Unknown,Unknown
+1182,No, Research Scientist ,1,2,2,1,1,Unknown,No
+1183,No, Research Director ,4,6,5,0,2,Unknown,No
+1184,Yes, Sales Executive ,2,3,2,1,2,Unknown,No
+1185,Yes, Sales Executive ,2,1,0,0,4,Unknown,Unknown
+1186,No, Research Director ,4,5,3,1,3,Unknown,No
+1187,No, Healthcare Representative ,2,5,3,4,2,Travel Rarely,No
+1188,No, Research Director ,4,4,0,1,3,Unknown,No
+1189,No, Human Resources ,1,5,4,0,6,Travel Rarely,Unknown
+1190,No, Research Scientist ,1,2,2,2,2,Travel Frequently,Unknown
+1191,No, Research Scientist ,1,1,0,0,2,Travel Rarely,Unknown
+1192,No, Research Scientist ,1,1,0,0,2,Unknown,Yes
+1193,Yes, Sales Executive ,3,14,7,11,2,Unknown,Unknown
+1194,No, Sales Representative ,1,3,2,0,5,Travel Frequently,No
+1195,No, Research Scientist ,1,2,2,0,0,Unknown,Unknown
+1196,No, Sales Executive ,2,15,9,0,2,Unknown,No
+1197,No, Sales Representative ,1,1,0,0,2,Travel Rarely,Yes
+1198,No, Research Director ,5,8,7,7,2,Travel Rarely,Unknown
+1199,Yes, Laboratory Technician ,1,1,0,0,0,Unknown,No
+1200,No, Research Scientist ,1,3,2,0,2,Travel Frequently,Yes
+1201,Yes, Laboratory Technician ,1,1,0,0,4,Unknown,Unknown
+1202,No, Research Scientist ,2,1,0,0,3,Unknown,Yes
+1203,No, Research Scientist ,1,1,0,0,4,Travel Rarely,No
+1204,No, Sales Representative ,1,2,2,2,2,Travel Rarely,Unknown
+1205,No, Sales Executive ,2,5,3,1,2,Unknown,No
+1206,Yes, Research Scientist ,1,1,0,0,2,Unknown,Unknown
+1207,No, Sales Executive ,2,6,5,0,2,Unknown,No
+1208,No, Manager ,3,9,8,0,2,Travel Rarely,Yes
+1209,No, Manufacturing Director ,3,3,2,1,4,Travel Rarely,Yes
+1210,No, Research Scientist ,1,3,2,1,3,Travel Rarely,No
+1211,No, Sales Executive ,2,2,2,2,2,Unknown,Unknown
+1212,No, Laboratory Technician ,1,1,0,0,3,Unknown,Unknown
+1213,No, Research Scientist ,2,7,5,2,2,Unknown,No
+1214,Yes, Laboratory Technician ,1,1,0,0,3,Travel Rarely,Unknown
+1215,No, Sales Executive ,2,5,4,0,1,Unknown,Unknown
+1216,No, Laboratory Technician ,1,6,5,0,4,Travel Frequently,Unknown
+1217,No, Research Director ,5,2,2,2,3,Travel Rarely,Unknown
+1218,Yes, Laboratory Technician ,2,7,7,0,3,Travel Frequently,Unknown
+1219,No, Sales Executive ,2,2,2,2,6,Unknown,Unknown
+1220,Yes, Human Resources ,1,5,4,1,3,Travel Rarely,Yes
+1221,No, Research Scientist ,2,7,7,1,2,Travel Rarely,No
+1222,No, Human Resources ,2,10,8,0,2,Travel Frequently,No
+1223,Yes, Research Scientist ,1,4,3,0,2,Travel Frequently,Yes
+1224,No, Healthcare Representative ,2,5,2,1,6,Unknown,No
+1225,Yes, Laboratory Technician ,1,4,3,0,2,Unknown,No
+1226,No, Laboratory Technician ,1,1,0,0,2,Unknown,Unknown
+1227,Yes, Laboratory Technician ,1,0,0,0,3,Travel Rarely,Yes
+1228,No, Laboratory Technician ,1,1,0,0,3,Travel Rarely,Unknown
+1229,No, Laboratory Technician ,1,1,0,0,2,Travel Rarely,Unknown
+1230,No, Laboratory Technician ,1,1,0,0,2,Unknown,Yes
+1231,No, Research Scientist ,1,0,0,0,6,Travel Rarely,No
+1232,No, Laboratory Technician ,1,10,8,1,5,Travel Rarely,Unknown
+1233,Yes, Sales Representative ,2,1,0,0,6,Travel Rarely,No
+1234,Yes, Research Scientist ,1,2,0,2,2,Travel Rarely,Yes
+1235,No, Laboratory Technician ,1,1,0,0,3,Unknown,Unknown
+1236,No, Laboratory Technician ,1,1,0,0,6,Unknown,Unknown
+1237,Yes, Laboratory Technician ,1,1,1,0,2,Unknown,Unknown
+1238,No, Research Scientist ,1,1,0,0,1,Unknown,No
+1239,No, Laboratory Technician ,1,1,1,0,2,Unknown,No
+1240,Yes, Laboratory Technician ,3,1,0,0,2,Unknown,Unknown
+1241,No, Healthcare Representative ,3,4,3,2,3,Non Travel,Yes
+1242,No, Manager ,4,5,2,0,2,Travel Rarely,Yes
+1243,No, Research Scientist ,3,1,0,0,2,Unknown,No
+1244,Yes, Research Scientist ,1,1,0,0,0,Unknown,Unknown
+1245,No, Laboratory Technician ,1,1,0,0,3,Travel Rarely,No
+1246,No, Research Director ,3,0,0,0,3,Travel Rarely,Yes
+1247,No, Sales Executive ,3,1,0,1,4,Unknown,Unknown
+1248,No, Sales Representative ,1,0,0,0,3,Unknown,No
+1249,No, Research Scientist ,1,1,0,0,2,Travel Rarely,No
+1250,Yes, Laboratory Technician ,1,1,0,1,5,Unknown,Yes
+1251,No, Healthcare Representative ,2,1,0,0,2,Unknown,No
+1252,No, Laboratory Technician ,1,0,0,0,5,Unknown,No
+1253,No, Research Scientist ,2,1,0,0,3,Unknown,Unknown
+1254,No, Laboratory Technician ,1,1,0,0,2,Unknown,Unknown
+1255,Yes, Sales Representative ,1,0,0,0,2,Travel Rarely,Yes
+1256,No, Laboratory Technician ,1,5,4,1,2,Unknown,Unknown
+1257,No, Laboratory Technician ,1,1,0,0,3,Unknown,No
+1258,No, Manufacturing Director ,2,1,0,0,2,Unknown,No
+1259,No, Research Scientist ,1,1,0,0,3,Unknown,Yes
+1260,Yes, Sales Representative ,1,0,0,0,5,Travel Frequently,No
+1261,Yes, Laboratory Technician ,1,1,0,1,3,Travel Rarely,Unknown
+1262,Yes, Manufacturing Director ,2,1,1,0,1,Travel Rarely,Yes
+1263,No, Manufacturing Director ,2,1,0,0,3,Travel Rarely,Unknown
+1264,Yes, Healthcare Representative ,2,1,0,0,2,Unknown,Yes
+1265,No, Manager ,3,1,0,0,3,Unknown,Yes
+1266,No, Research Scientist ,1,1,0,0,6,Travel Rarely,Unknown
+1267,No, Manager ,5,7,6,0,3,Travel Rarely,No
+1268,No, Research Scientist ,2,1,0,0,2,Travel Rarely,Unknown
+1269,No, Manager ,5,24,7,1,2,Unknown,Unknown
+1270,Yes, Manufacturing Director ,3,1,0,0,5,Unknown,No
+1271,No, Research Scientist ,1,1,0,0,0,Unknown,No
+1272,Yes, Laboratory Technician ,1,0,0,0,5,Travel Rarely,Unknown
+1273,No, Sales Executive ,2,0,0,0,2,Travel Rarely,No
+1274,No, Healthcare Representative ,2,9,8,7,2,Travel Rarely,No
+1275,No, Sales Executive ,2,8,7,7,3,Travel Rarely,Yes
+1276,Yes, Laboratory Technician ,1,1,0,0,0,Travel Frequently,Yes
+1277,No, Research Scientist ,2,8,7,7,2,Unknown,Unknown
+1278,Yes, Laboratory Technician ,1,0,0,0,2,Unknown,No
+1279,No, Laboratory Technician ,1,1,0,0,2,Unknown,No
+1280,No, Sales Representative ,1,0,0,0,2,Unknown,No
+1281,Yes, Sales Executive ,2,1,0,0,3,Travel Rarely,Yes
+1282,No, Healthcare Representative ,3,1,0,0,1,Travel Rarely,No
+1283,No, Sales Representative ,2,0,0,0,3,Travel Frequently,No
+1284,No, Research Director ,4,1,0,0,2,Travel Rarely,No
+1285,No, Laboratory Technician ,1,8,7,0,4,Unknown,No
+1286,No, Manager ,3,0,0,0,3,Travel Rarely,Unknown
+1287,No, Healthcare Representative ,2,1,0,0,6,Travel Rarely,Unknown
+1288,No, Sales Executive ,2,1,0,0,6,Non Travel,Unknown
+1289,Yes, Sales Representative ,1,1,0,0,2,Travel Rarely,Unknown
+1290,No, Manufacturing Director ,2,1,0,0,2,Unknown,Unknown
+1291,Yes, Sales Representative ,1,1,0,0,0,Travel Rarely,Unknown
+1292,No, Sales Representative ,1,1,0,0,3,Unknown,Unknown
+1293,Yes, Research Scientist ,1,1,0,0,4,Travel Frequently,Yes
+1294,No, Manufacturing Director ,2,1,1,0,2,Travel Rarely,Unknown
+1295,No, Laboratory Technician ,2,1,0,0,3,Travel Rarely,No
+1296,No, Laboratory Technician ,2,10,8,1,2,Travel Rarely,Unknown
+1297,No, Laboratory Technician ,1,1,0,0,3,Travel Frequently,Yes
+1298,Yes, Human Resources ,1,1,0,0,3,Unknown,No
+1299,No, Manager ,4,1,0,0,3,Travel Rarely,No
+1300,No, Manufacturing Director ,2,5,4,0,2,Travel Rarely,Unknown
+1301,No, Laboratory Technician ,2,1,0,0,3,Travel Rarely,Unknown
+1302,Yes, Healthcare Representative ,3,1,0,0,2,Travel Frequently,No
+1303,Yes, Sales Representative ,1,0,0,0,3,Travel Frequently,Yes
+1304,No, Sales Executive ,3,1,1,0,2,Unknown,No
+1305,No, Sales Executive ,2,0,0,0,5,Unknown,Unknown
+1306,Yes, Laboratory Technician ,1,1,0,0,3,Travel Rarely,Yes
+1307,No, Healthcare Representative ,2,1,0,0,4,Unknown,No
+1308,No, Laboratory Technician ,1,1,0,0,2,Unknown,No
+1309,Yes, Sales Representative ,1,1,0,0,2,Travel Frequently,No
+1310,No, Sales Executive ,2,3,0,1,3,Travel Rarely,Unknown
+1311,No, Research Scientist ,1,1,0,0,0,Travel Rarely,No
+1312,No, Research Director ,4,1,0,0,3,Unknown,Unknown
+1313,No, Research Scientist ,1,0,0,0,3,Unknown,No
+1314,No, Sales Executive ,2,5,2,1,3,Unknown,Unknown
+1315,No, Research Scientist ,1,1,0,0,2,Unknown,No
+1316,No, Sales Executive ,2,6,2,1,5,Unknown,No
+1317,Yes, Research Scientist ,1,1,1,1,5,Unknown,Unknown
+1318,No, Laboratory Technician ,1,1,0,0,3,Non Travel,No
+1319,No, Research Scientist ,1,1,0,0,2,Unknown,No
+1320,No, Manufacturing Director ,3,1,0,0,4,Unknown,Yes
+1321,No, Sales Representative ,1,1,0,0,6,Unknown,No
+1322,No, Healthcare Representative ,2,1,0,0,2,Unknown,No
+1323,No, Research Scientist ,1,1,1,0,0,Travel Rarely,Yes
+1324,No, Manufacturing Director ,2,0,0,0,3,Travel Rarely,No
+1325,Yes, Laboratory Technician ,1,0,0,0,2,Unknown,Yes
+1326,No, Laboratory Technician ,1,1,0,0,4,Unknown,No
+1327,Yes, Laboratory Technician ,1,1,0,0,1,Travel Rarely,Unknown
+1328,No, Laboratory Technician ,2,1,0,0,6,Travel Frequently,No
+1329,No, Manufacturing Director ,2,0,0,0,4,Travel Rarely,Unknown
+1330,No, Research Scientist ,1,1,0,0,3,Unknown,No
+1331,No, Research Scientist ,1,0,0,0,6,Unknown,Unknown
+1332,No, Sales Executive ,2,1,0,0,2,Unknown,Unknown
+1333,No, Laboratory Technician ,1,3,2,0,2,Unknown,No
+1334,No, Sales Executive ,4,2,2,2,3,Travel Rarely,Unknown
+1335,No, Sales Executive ,3,10,9,0,2,Unknown,Yes
+1336,Yes, Laboratory Technician ,1,1,1,0,2,Travel Rarely,Unknown
+1337,Yes, Laboratory Technician ,1,1,0,0,3,Travel Frequently,Unknown
+1338,No, Manufacturing Director ,2,1,0,0,2,Travel Rarely,No
+1339,Yes, Research Scientist ,1,1,0,0,3,Travel Rarely,No
+1340,No, Laboratory Technician ,1,1,0,1,3,Unknown,No
+1341,No, Healthcare Representative ,3,6,4,0,3,Unknown,Unknown
+1342,No, Research Scientist ,1,0,0,0,2,Unknown,Unknown
+1343,No, Laboratory Technician ,1,3,2,0,3,Non Travel,No
+1344,Yes, Sales Representative ,1,1,0,0,2,Unknown,Yes
+1345,No, Sales Executive ,3,1,0,0,2,Unknown,No
+1346,Yes, Sales Representative ,1,1,0,0,3,Unknown,Yes
+1347,Yes, Laboratory Technician ,1,1,0,0,2,Travel Rarely,Unknown
+1348,No, Healthcare Representative ,2,5,4,1,3,Travel Rarely,Unknown
+1349,Yes, Research Scientist ,1,1,0,0,4,Travel Rarely,No
+1350,Yes, Sales Executive ,4,1,0,0,2,Non Travel,Unknown
+1351,Yes, Research Scientist ,1,0,0,0,5,Travel Rarely,Yes
+1352,No, Sales Executive ,2,9,7,0,0,Travel Rarely,Yes
+1353,No, Research Scientist ,1,0,0,0,2,Unknown,No
+1354,Yes, Research Scientist ,1,1,0,0,2,Unknown,Yes
+1355,No, Manager ,5,1,0,0,3,Unknown,No
+1356,No, Laboratory Technician ,1,1,0,0,5,Travel Rarely,No
+1357,Yes, Healthcare Representative ,2,1,0,0,2,Travel Rarely,No
+1358,No, Sales Executive ,2,1,0,0,1,Unknown,Yes
+1359,Yes, Laboratory Technician ,2,1,0,0,3,Unknown,Unknown
+1360,No, Sales Representative ,1,1,0,0,5,Travel Rarely,No
+1361,No, Sales Executive ,3,1,0,0,5,Unknown,No
+1362,Yes, Laboratory Technician ,1,1,0,1,6,Travel Rarely,No
+1363,Yes, Research Scientist ,1,10,7,2,2,Travel Rarely,Unknown
+1364,No, Sales Executive ,2,1,0,0,5,Unknown,Yes
+1365,Yes, Laboratory Technician ,1,1,0,0,2,Unknown,No
+1366,Yes, Sales Executive ,2,0,0,0,4,Unknown,Yes
+1367,No, Research Scientist ,1,0,0,0,2,Unknown,No
+1368,No, Sales Executive ,3,1,0,0,2,Travel Rarely,No
+1369,No, Laboratory Technician ,2,1,0,0,3,Unknown,Unknown
+1370,Yes, Laboratory Technician ,1,0,0,0,0,Unknown,No
+1371,No, Laboratory Technician ,1,1,0,0,4,Unknown,Yes
+1372,No, Laboratory Technician ,1,8,7,1,2,Travel Rarely,No
+1373,No, Sales Representative ,1,1,0,0,3,Unknown,Unknown
+1374,Yes, Research Scientist ,1,0,0,0,5,Unknown,Yes
+1375,No, Research Scientist ,1,0,0,0,3,Non Travel,No
+1376,Yes, Research Scientist ,1,1,0,0,2,Non Travel,No
+1377,No, Sales Executive ,2,0,0,0,2,Travel Frequently,No
+1378,Yes, Laboratory Technician ,1,1,0,0,3,Unknown,Unknown
+1379,No, Research Director ,3,1,0,0,6,Travel Frequently,Yes
+1380,No, Manager ,5,1,0,0,2,Unknown,Unknown
+1381,No, Laboratory Technician ,1,1,0,0,4,Travel Rarely,Unknown
+1382,No, Healthcare Representative ,2,6,0,1,2,Travel Rarely,Unknown
+1383,No, Research Director ,5,1,0,0,3,Unknown,No
+1384,No, Research Scientist ,1,1,0,0,5,Unknown,No
+1385,No, Research Scientist ,1,1,1,0,2,Unknown,Unknown
+1386,No, Research Scientist ,1,1,1,0,2,Unknown,No
+1387,Yes, Sales Representative ,1,1,0,1,4,Travel Frequently,Yes
+1388,No, Research Scientist ,2,1,0,0,2,Unknown,Yes
+1389,No, Laboratory Technician ,1,7,7,7,6,Travel Frequently,Unknown
+1390,No, Manager ,5,0,0,0,4,Travel Frequently,Unknown
+1391,No, Sales Representative ,1,1,0,0,4,Unknown,Unknown
+1392,No, Laboratory Technician ,1,0,0,0,5,Non Travel,Unknown
+1393,Yes, Sales Representative ,1,1,0,0,3,Travel Frequently,No
+1394,Yes, Sales Representative ,1,1,0,0,3,Travel Frequently,Unknown
+1395,Yes, Research Scientist ,1,1,0,0,3,Travel Rarely,Unknown
+1396,No, Laboratory Technician ,1,5,4,1,3,Travel Rarely,Unknown
+1397,Yes, Laboratory Technician ,1,1,0,0,2,Unknown,Yes
+1398,No, Sales Executive ,2,1,0,0,4,Travel Frequently,Unknown
+1399,No, Research Scientist ,1,1,0,0,2,Unknown,Unknown
+1400,No, Sales Representative ,1,1,0,0,3,Travel Rarely,No
+1401,Yes, Laboratory Technician ,1,0,0,0,2,Travel Frequently,Unknown
+1402,No, Sales Representative ,1,1,0,0,2,Unknown,Unknown
+1403,Yes, Laboratory Technician ,1,0,0,0,2,Unknown,No
+1404,No, Research Scientist ,1,1,0,0,2,Travel Rarely,Unknown
+1405,No, Healthcare Representative ,2,0,0,0,6,Unknown,Unknown
+1406,No, Manufacturing Director ,3,2,2,2,3,Travel Rarely,Unknown
+1407,No, Laboratory Technician ,1,1,0,0,3,Unknown,Unknown
+1408,No, Research Scientist ,1,1,0,0,2,Travel Rarely,No
+1409,No, Laboratory Technician ,1,3,2,1,3,Travel Rarely,No
+1410,Yes, Laboratory Technician ,1,1,0,0,2,Travel Rarely,Unknown
+1411,No, Research Scientist ,1,1,0,0,4,Unknown,Unknown
+1412,No, Research Scientist ,1,1,0,0,5,Travel Rarely,Unknown
+1413,No, Sales Executive ,2,1,0,0,5,Travel Rarely,No
+1414,No, Manager ,5,1,0,0,2,Unknown,Yes
+1415,No, Manager ,5,1,1,0,2,Travel Rarely,No
+1416,No, Laboratory Technician ,1,1,1,0,5,Unknown,No
+1417,No, Manager ,4,26,12,0,5,Travel Rarely,Unknown
+1418,Yes, Sales Representative ,1,0,0,0,2,Travel Frequently,Yes
+1419,No, Sales Executive ,2,10,9,0,3,Unknown,Yes
+1420,No, Sales Executive ,2,10,2,0,2,Unknown,No
+1421,No, Sales Executive ,3,2,2,0,2,Travel Rarely,Unknown
+1422,No, Laboratory Technician ,1,0,0,0,5,Travel Rarely,Unknown
+1423,Yes, Laboratory Technician ,1,1,0,0,2,Travel Rarely,No
+1424,No, Healthcare Representative ,3,1,0,0,2,Unknown,No
+1425,Yes, Human Resources ,1,1,0,0,2,Unknown,No
+1426,No, Manufacturing Director ,2,1,0,0,3,Travel Rarely,Yes
+1427,No, Research Scientist ,1,10,8,0,2,Travel Rarely,No
+1428,No, Sales Executive ,2,1,0,0,3,Non Travel,No
+1429,Yes, Sales Executive ,2,0,0,0,2,Travel Rarely,Unknown
+1430,No, Human Resources ,3,5,3,0,2,Travel Rarely,Unknown
+1431,No, Research Scientist ,1,5,2,1,3,Unknown,Yes
+1432,Yes, Sales Executive ,3,0,0,0,2,Unknown,Yes
+1433,Yes, Sales Executive ,3,1,0,0,2,Travel Rarely,Unknown
+1434,No, Research Scientist ,1,1,0,0,2,Travel Rarely,Unknown
+1435,No, Healthcare Representative ,2,7,7,1,3,Unknown,No
+1436,No, Healthcare Representative ,2,1,0,1,2,Travel Rarely,Unknown
+1437,Yes, Research Scientist ,1,1,0,0,4,Unknown,Yes
+1438,No, Research Director ,5,1,0,0,2,Travel Rarely,No
+1439,Yes, Sales Representative ,1,1,0,1,3,Unknown,Unknown
+1440,Yes, Laboratory Technician ,1,1,0,0,6,Travel Rarely,Yes
+1441,No, Human Resources ,2,10,7,4,4,Travel Rarely,No
+1442,No, Healthcare Representative ,2,0,0,0,2,Travel Rarely,No
+1443,No, Research Scientist ,1,0,0,0,4,Unknown,Unknown
+1444,Yes, Human Resources ,1,1,0,0,4,Travel Rarely,No
+1445,No, Research Scientist ,2,1,0,0,2,Travel Rarely,Yes
+1446,No, Sales Executive ,2,0,0,0,2,Travel Frequently,Unknown
+1447,No, Healthcare Representative ,2,7,6,1,3,Unknown,No
+1448,No, Laboratory Technician ,1,0,0,0,3,Travel Rarely,No
+1449,No, Human Resources ,1,1,0,0,3,Travel Rarely,No
+1450,Yes, Research Scientist ,1,1,0,1,3,Unknown,Yes
+1451,No, Sales Representative ,1,1,0,0,3,Travel Rarely,No
+1452,Yes, Sales Representative ,1,1,0,0,3,Unknown,Unknown
+1453,Yes, Research Scientist ,1,1,0,0,2,Travel Rarely,Unknown
+1454,No, Research Scientist ,1,1,0,1,3,Unknown,Yes
+1455,No, Healthcare Representative ,2,2,2,2,5,Travel Rarely,Unknown
+1456,Yes, Sales Representative ,1,1,0,0,3,Travel Frequently,No
+1457,Yes, Sales Executive ,2,2,2,2,0,Travel Rarely,Yes
+1458,No, Sales Executive ,2,0,0,0,3,Travel Rarely,Unknown
+1459,No, Manufacturing Director ,2,10,9,7,3,Travel Rarely,No
+1460,No, Manager ,4,1,0,0,2,Unknown,Yes
+1461,No, Sales Executive ,2,0,0,0,4,Travel Rarely,Unknown
+1462,Yes, Human Resources ,1,1,0,0,2,Unknown,No
+1463,No, Sales Representative ,1,1,0,0,3,Travel Rarely,Unknown
+1464,No, Manufacturing Director ,2,1,0,0,1,Unknown,No
+1465,No, Laboratory Technician ,1,1,0,0,4,Unknown,Unknown
+1466,No, Human Resources ,1,2,2,1,3,Travel Rarely,No
+1467,No, Laboratory Technician ,1,1,0,0,3,Unknown,No
+1468,No, Manager ,5,6,3,1,3,Non Travel,Unknown
+1469,Yes, Sales Representative ,1,1,0,1,3,Unknown,No
+1470,No, Human Resources ,3,9,7,1,2,Travel Rarely,Yes
+1471,No, Sales Representative ,1,11,7,5,4,Travel Rarely,Yes
+1472,No, Research Scientist ,1,5,4,1,3,Non Travel,No
+1473,No, Healthcare Representative ,2,5,2,0,5,Unknown,No
+1474,Yes, Healthcare Representative ,3,40,6,15,3,Travel Rarely,Unknown
+1475,No, Sales Executive ,3,16,13,5,6,Unknown,Unknown
+1476,No, Sales Executive ,3,11,1,4,5,Travel Frequently,Unknown
+1477,No, Manager ,5,36,13,4,2,Travel Rarely,Unknown
+1478,No, Manager ,4,22,4,0,2,Unknown,Unknown
+1479,No, Healthcare Representative ,3,18,7,3,5,Travel Rarely,No
+1480,No, Research Director ,3,11,9,2,3,Unknown,Unknown
+1481,No, Research Director ,4,25,9,3,3,Unknown,No
+1482,No, Manufacturing Director ,2,13,12,3,5,Unknown,No
+1483,No, Manager ,4,27,7,15,2,Travel Rarely,No
+1484,No, Sales Representative ,1,2,2,2,2,Non Travel,Unknown
+1485,Yes, Research Scientist ,1,3,2,1,2,Unknown,Unknown
+1486,No, Research Scientist ,1,2,2,2,2,Travel Frequently,No
+1487,No, Research Director ,5,2,2,2,0,Unknown,No
+1488,No, Research Scientist ,1,2,2,2,6,Unknown,Yes
+1489,No, Sales Representative ,1,2,2,2,4,Travel Frequently,No
+1490,No, Sales Executive ,2,5,2,0,3,Unknown,Unknown
+1491,No, Manufacturing Director ,2,3,2,0,3,Unknown,No
+1492,Yes, Sales Executive ,2,5,3,0,3,Unknown,Unknown
+1493,Yes, Laboratory Technician ,1,2,2,2,5,Unknown,No
+1494,No, Healthcare Representative ,2,6,3,1,2,Travel Rarely,No
+1495,No, Research Scientist ,1,4,2,2,0,Travel Rarely,No
+1496,No, Laboratory Technician ,1,2,2,2,2,Travel Frequently,Unknown
+1497,No, Manager ,5,5,2,4,2,Unknown,No
+1498,No, Research Scientist ,1,3,2,0,2,Unknown,Yes
+1499,No, Human Resources ,1,9,8,1,5,Travel Rarely,No
+1500,No, Sales Executive ,2,12,7,5,3,Travel Rarely,Unknown
+1501,Yes, Sales Executive ,2,10,7,7,2,Unknown,Unknown
+1502,No, Manufacturing Director ,2,7,7,1,6,Non Travel,No
+1503,No, Manufacturing Director ,3,7,2,0,3,Unknown,No
+1504,Yes, Healthcare Representative ,2,9,7,3,2,Travel Rarely,No
+1505,No, Sales Executive ,2,8,7,5,3,Non Travel,Unknown
+1506,No, Sales Executive ,2,7,7,7,5,Travel Frequently,Unknown
+1507,Yes, Sales Executive ,3,8,7,0,2,Unknown,Unknown
+1508,No, Manager ,4,19,16,11,3,Travel Rarely,Unknown
+1509,No, Sales Executive ,2,8,7,0,5,Travel Rarely,No
+1510,No, Research Director ,3,13,7,5,3,Unknown,No
+1511,No, Laboratory Technician ,1,7,7,7,3,Travel Frequently,No
+1512,No, Sales Executive ,2,7,7,0,2,Travel Frequently,Unknown
+1513,No, Research Scientist ,1,5,3,0,4,Travel Rarely,Unknown
+1514,No, Human Resources ,2,2,0,1,1,Travel Rarely,No
+1515,No, Research Scientist ,1,2,2,2,2,Unknown,Unknown
+1516,Yes, Research Scientist ,2,8,7,7,3,Unknown,No
+1517,Yes, Research Scientist ,1,3,2,2,4,Unknown,Yes
+1518,No, Research Director ,5,3,1,1,2,Travel Rarely,Unknown
+1519,No, Laboratory Technician ,1,3,2,2,2,Unknown,No
+1520,No, Manufacturing Director ,2,6,4,0,2,Unknown,No
+1521,No, Research Scientist ,1,4,2,0,2,Unknown,Unknown
+1522,No, Human Resources ,1,3,0,1,5,Travel Rarely,Yes
+1523,No, Sales Executive ,2,2,2,2,2,Unknown,Unknown
+1524,Yes, Sales Representative ,1,3,2,1,3,Unknown,Unknown
+1525,No, Healthcare Representative ,2,3,2,1,2,Travel Rarely,No
+1526,No, Sales Representative ,1,3,2,2,3,Unknown,Unknown
+1527,No, Research Scientist ,1,2,2,2,5,Travel Rarely,Unknown
+1528,No, Research Scientist ,1,3,2,1,4,Unknown,No
+1529,No, Laboratory Technician ,1,5,4,0,2,Travel Rarely,No
+1530,No, Healthcare Representative ,3,5,0,0,2,Travel Rarely,No
+1531,No, Research Scientist ,1,2,2,2,3,Travel Rarely,No
+1532,Yes, Sales Executive ,2,5,4,0,3,Non Travel,Yes
+1533,No, Sales Executive ,2,5,3,0,2,Unknown,Yes
+1534,No, Laboratory Technician ,1,5,2,1,5,Unknown,No
+1535,No, Research Director ,5,4,2,1,4,Unknown,Unknown
+1536,No, Sales Executive ,2,3,2,1,3,Unknown,No
+1537,No, Laboratory Technician ,1,3,2,1,1,Unknown,Unknown
+1538,No, Healthcare Representative ,2,5,2,0,3,Travel Rarely,Yes
+1539,No, Laboratory Technician ,1,4,2,3,3,Travel Rarely,No
+1540,Yes, Laboratory Technician ,1,2,2,0,5,Travel Rarely,No
+1541,No, Research Scientist ,1,2,2,0,3,Unknown,No
+1542,No, Healthcare Representative ,4,20,10,4,2,Travel Rarely,Yes
+1543,Yes, Manager ,3,10,9,9,2,Non Travel,Unknown
+1544,No, Manager ,3,7,2,6,6,Unknown,Unknown
+1545,No, Sales Executive ,2,10,9,0,3,Travel Frequently,Unknown
+1546,No, Laboratory Technician ,2,10,8,0,4,Travel Rarely,Unknown
+1547,Yes, Sales Executive ,2,8,4,7,0,Travel Rarely,Unknown
+1548,No, Sales Executive ,2,8,7,7,3,Travel Rarely,Unknown
+1549,No, Laboratory Technician ,1,8,7,1,5,Travel Frequently,No
+1550,No, Sales Executive ,2,7,7,1,3,Travel Rarely,Unknown
+1551,No, Research Scientist ,2,7,7,0,0,Unknown,Unknown
+1552,No, Sales Executive ,2,7,1,0,6,Unknown,No
+1553,No, Laboratory Technician ,2,9,0,0,3,Travel Frequently,No
+1554,Yes, Laboratory Technician ,1,7,7,0,4,Travel Rarely,Unknown
+1555,No, Sales Executive ,2,8,7,0,3,Unknown,No
+1556,No, Sales Executive ,2,7,7,1,2,Travel Rarely,Yes
+1557,No, Research Scientist ,2,7,7,6,2,Unknown,Unknown
+1558,No, Sales Executive ,2,8,7,7,3,Travel Rarely,Unknown
+1559,No, Laboratory Technician ,1,7,7,1,3,Travel Rarely,Yes
+1560,Yes, Sales Executive ,2,8,7,7,5,Unknown,No
+1561,No, Sales Executive ,2,7,7,0,2,Travel Rarely,No
+1562,No, Laboratory Technician ,1,18,17,12,2,Unknown,No
+1563,No, Sales Executive ,4,7,7,7,0,Unknown,No
+1564,No, Sales Executive ,3,10,7,0,2,Travel Rarely,Unknown
+1565,No, Manufacturing Director ,2,10,8,0,5,Unknown,No
+1566,No, Laboratory Technician ,1,11,7,6,2,Non Travel,Unknown
+1567,No, Healthcare Representative ,3,8,0,0,2,Travel Rarely,Yes
+1568,No, Sales Executive ,2,9,7,6,2,Travel Rarely,No
+1569,No, Sales Executive ,2,8,7,3,3,Travel Rarely,No
+1570,Yes, Human Resources ,1,7,0,1,2,Travel Frequently,Yes
+1571,No, Healthcare Representative ,2,8,7,0,3,Unknown,Yes
+1572,No, Sales Executive ,2,10,7,5,3,Unknown,Unknown
+1573,No, Sales Executive ,2,7,7,5,4,Travel Rarely,No
+1574,No, Laboratory Technician ,2,8,7,4,3,Travel Frequently,Unknown
+1575,No, Sales Executive ,2,14,10,8,2,Unknown,Unknown
+1576,No, Manufacturing Director ,3,10,8,7,2,Travel Rarely,No
+1577,No, Human Resources ,3,9,1,7,1,Unknown,Unknown
+1578,No, Sales Executive ,2,7,5,0,2,Travel Rarely,No
+1579,No, Research Scientist ,1,10,8,2,5,Unknown,Unknown
+1580,No, Healthcare Representative ,3,8,7,7,3,Unknown,Unknown
+1581,No, Healthcare Representative ,2,20,10,11,4,Unknown,No
+1582,No, Sales Executive ,2,10,8,0,2,Unknown,Unknown
+1583,No, Healthcare Representative ,2,9,8,1,4,Travel Rarely,Unknown
+1584,No, Manufacturing Director ,3,9,7,0,3,Travel Rarely,Unknown
+1585,No, Research Director ,3,7,7,7,6,Travel Rarely,Unknown
+1586,No, Sales Executive ,2,7,7,1,2,Unknown,Unknown
+1587,No, Manufacturing Director ,3,9,7,1,4,Travel Frequently,No
+1588,No, Manager ,5,22,10,2,3,Unknown,No
+1589,Yes, Research Scientist ,1,7,7,3,4,Unknown,Yes
+1590,No, Research Director ,3,8,5,0,2,Unknown,Unknown
+1591,No, Sales Executive ,2,8,7,7,2,Unknown,No
+1592,No, Healthcare Representative ,4,10,1,1,1,Travel Rarely,No
+1593,No, Sales Representative ,2,8,1,3,3,Travel Rarely,No
+1594,No, Sales Executive ,3,10,9,0,1,Non Travel,Unknown
+1595,No, Healthcare Representative ,2,8,1,1,3,Unknown,No
+1596,No, Manufacturing Director ,2,15,12,4,2,Unknown,Unknown
+1597,No, Healthcare Representative ,2,8,7,3,2,Unknown,No
+1598,No, Manager ,5,24,9,14,4,Travel Frequently,No
+1599,No, Manufacturing Director ,2,9,5,0,2,Travel Rarely,Unknown
+1600,No, Research Scientist ,1,10,7,0,3,Travel Rarely,Unknown
+1601,Yes, Sales Executive ,2,9,3,7,3,Unknown,Unknown
+1602,No, Sales Executive ,2,8,5,7,2,Unknown,Unknown
+1603,Yes, Research Scientist ,1,8,7,1,2,Unknown,Unknown
+1604,No, Research Scientist ,1,8,1,7,0,Unknown,Yes
+1605,Yes, Laboratory Technician ,1,7,0,1,1,Unknown,Yes
+1606,No, Sales Representative ,1,7,2,5,2,Travel Rarely,Unknown
+1607,No, Sales Executive ,2,7,7,0,2,Travel Frequently,Unknown
+1608,No, Healthcare Representative ,2,9,5,8,2,Unknown,Unknown
+1609,No, Manufacturing Director ,2,8,3,6,2,Unknown,Unknown
+1610,Yes, Sales Executive ,3,16,7,3,6,Travel Rarely,Unknown
+1611,No, Laboratory Technician ,2,9,8,0,5,Non Travel,Unknown
+1612,No, Sales Executive ,3,8,7,0,3,Travel Rarely,No
+1613,No, Sales Executive ,2,7,7,0,3,Non Travel,No
+1614,No, Manufacturing Director ,3,8,7,0,3,Unknown,Unknown
